@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+	<!-- Add user and Department -->
+
+	<test name="Add user and Department">
+	
+		<classes>
+			<class name="testcases.CompanySetupTest">
+				<methods>
+					<include name="addReview" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+	<test name="Performance Review">
+		<classes>
+			<class name="testcases.PerformanceReviewTest" />
+		</classes>
+	</test>
+</suite> <!-- Suite -->
