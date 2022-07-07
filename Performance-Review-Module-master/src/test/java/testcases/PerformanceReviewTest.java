@@ -15,10 +15,16 @@ public class PerformanceReviewTest extends WebTestBase {
 		new LoginAction(driver).logoutLogin();
 		PerformanceReviewAction performanceReviewAction = new PerformanceReviewAction(driver);
 		performanceReviewAction.navigateToPerformanceReview();
-		//performanceReviewAction.clickGoal();
-		//performanceReviewAction.clickNote();
-		performanceReviewAction.clickFeedback();
-		performanceReviewAction.clickSkill();
+		
+		  performanceReviewAction.clickGoal(); performanceReviewAction.clickNote();
+		  performanceReviewAction.clickFeedback();
+		  performanceReviewAction.clickSkill();
+		 
+		performanceReviewAction.clickUserPerformanceReview();
+		performanceReviewAction.validateSkillPage();
+		performanceReviewAction.validatefeedbackPage();
+		performanceReviewAction.clickonQuestion();
+		performanceReviewAction.clickonSubmitReview();
 		
 	}
 }

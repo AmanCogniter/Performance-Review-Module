@@ -53,7 +53,48 @@ public class PerformanceReviewAction extends WebBasePage {
 	public void clickSkill() {
 		performanceReviewPage.clickSkill();
 		performanceReviewPage.clickSkillTitle();
+		performanceReviewPage.provideProgress();
 		performanceReviewPage.enterSkillComment();
 		performanceReviewPage.saveSkill();
+	}
+	public void clickUserPerformanceReview() {
+		performanceReviewPage.clickOnUserPerformanceReview();
+		performanceReviewPage.clickOnUserReviewTitle();
+		
+	}
+	public void validatefeedbackPage() {
+		performanceReviewPage.clickOnuserfeedback();
+		performanceReviewPage.clickOnuserfeedbackQuestion();
+		performanceReviewPage.validateFeedBack();
+		performanceReviewPage.clickOnfeedbackClosebutton();
+		
+	}
+	public void validateSkillPage() {
+		performanceReviewPage.clickOnUserSkill();
+		performanceReviewPage.clickOnUserSkillTitle();
+		performanceReviewPage.validateSkill();
+		performanceReviewPage.clickOnSkillClosebutton();
+		
+	}
+	
+	public void clickonQuestion() {
+		performanceReviewPage.clickOnQuestiopn();
+		performanceReviewPage.clickOnShortTermGoalRating();
+		performanceReviewPage.enterShortTermGoal();
+		performanceReviewPage.clickOnLongTermGoalRating();
+		performanceReviewPage.enterLongTermGoal();
+		performanceReviewPage.clickOnCurrentAppraisalCycleRating();
+		performanceReviewPage.enterurrentAppraisalCycle();
+		performanceReviewPage.clickOnWeaknessRating();
+		performanceReviewPage.enterweaknesses();
+		performanceReviewPage.clickOnSaveQuestion();
+
+	}
+	public void clickonSubmitReview() {
+		performanceReviewPage.clickOnSubmitReview();
+		performanceReviewPage.enterDescription();
+		performanceReviewPage.clickOnSaveSubmitReview();
+		performanceReviewPage.clickOnOK();
+		
 	}
 }

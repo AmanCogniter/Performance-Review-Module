@@ -1,5 +1,7 @@
 package pageobjects;
 
+import static reporting.ComplexReportFactory.getTest;
+
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Properties;
@@ -10,6 +12,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
+
+import com.relevantcodes.extentreports.LogStatus;
 
 import utils.DateTime;
 import utils.PropertiesLoader;
@@ -195,6 +199,134 @@ public class PerformanceReviewPage extends WebBasePage {
 	public void saveSkill() {
 		click(By.xpath("//button[@class='btn btn-success']"), "Skill saved", 20);
 	}
+	
+	/* Click on User Performance Review */
+	public void clickOnUserPerformanceReview() {
+		click(By.xpath("//a[@id='areview']"), "User Performance Review", 20);
+	}
+	/* Click on User Performance Review Title */
+	public void clickOnUserReviewTitle() {
+		click(By.xpath("//a[contains(text(),'Add Review Title')]"), "User Review Title", 20);
+	}
+	/* Click on Question */
+	public void clickOnQuestiopn() {
+		click(By.xpath("//a[@data-original-title='Question']"), "User Question", 20);
+	}
+	/* Click on Short Term Goals Rating */
+	public void clickOnShortTermGoalRating() {
+		click(By.xpath("//div[contains(text(),'your short Term goals')]/ancestor::div[@class='feedback-box']/descendant::i[@value='4']"), "Short Term Goal Rating", 20);
+	}
+	//Enter Short Term Goal
+	public void enterShortTermGoal() {
+		enter(By.xpath("//div[contains(text(),'your short Term goals')]/ancestor::div[@class='feedback-box']/descendant::p[@class='description divans']/tg-textarea/textarea[@class='form-control form-control ans']"), "Add Short Term Goal", "Enter Short Term Goal", 20);
+		}
+	
+	/* Click on Long Term Goals Rating */
+	public void clickOnLongTermGoalRating() {
+		click(By.xpath("//div[contains(text(),'your long Term goals')]/ancestor::div[@class='feedback-box']/descendant::i[@value='4']"), "Long Term Goal Rating", 20);
+	}
+
+	/* Enter Long Term Goal */
+	public void enterLongTermGoal() {
+		enter(By.xpath("//div[contains(text(),'your long Term goals')]/ancestor::div[@class='feedback-box']/descendant::p[@class='description divans']/tg-textarea/textarea[@class='form-control form-control ans']"), "Add Long Term Goal", "Enter comment Note", 20);
+			}
+	/* Click on Current Appraisal Cycle Rating */
+	public void clickOnCurrentAppraisalCycleRating() {
+		click(By.xpath("//div[contains(text(),'your key achievements in current appraisal cycle?')]/ancestor::div[@class='feedback-box']/descendant::i[@value='4']"), "Current Appraisal Cycle Rating", 20);
+	}
+
+	/* Enter Current Appraisal Cycle */
+		public void enterurrentAppraisalCycle() {
+			enter(By.xpath("//div[contains(text(),'achievements in current appraisal cycle')]/ancestor::div[@class='feedback-box']/descendant::p[@class='description divans']/tg-textarea/textarea[@class='form-control form-control ans']"), "Add achievements in current appraisal cycle", "Enter achievements in current appraisal cycle", 20);
+				}
+	/* Click on Weakness Rating */
+	public void clickOnWeaknessRating() {
+		click(By.xpath("//div[contains(text(),'your key achievements in current appraisal cycle?')]/ancestor::div[@class='feedback-box']/descendant::i[@value='4']"), "Current Appraisal Cycle", 20);
+	}
+	/* Enter Weakness */
+	public void enterweaknesses() {
+		enter(By.xpath("//div[contains(text(),'what are your weaknesses')]/ancestor::div[@class='feedback-box']/descendant::p[@class='description divans']/tg-textarea/textarea[@class='form-control form-control ans']"), "Add weakness", "Enter weakness", 20);
+			}
+     /*Click on Save Question */
+	public void clickOnSaveQuestion() {
+	
+		click(By.xpath("//input[@id='btnQuestionSave']"), "Save Question", 20);
+	}
+	/* Click on Submit Review */
+	public void clickOnSubmitReview() {
+		staticWait(3000);
+	click(By.xpath("//a[@data-original-title='Submit Review']"), "Submit review", 20);
+	}
+	/* Enter Description */
+	public void enterDescription() {
+		enter(By.xpath("//textarea[@id='txtOverviewComment']"), "Add Review Description", " Review Description", 20);
+    }
+	 /*Click on Save Submit Review */
+		public void clickOnSaveSubmitReview() {
+			click(By.xpath("//input[@id='btnSave']"), "Save Submit Review", 20);
+		}
+		/*Click on OK */
+		public void clickOnOK() {
+			click(By.xpath("//button[@data-bb-handler='confirm']"), "Ok button", 20);
+		}
+		/*Click on User feedback */
+		public void clickOnuserfeedback() {
+			click(By.xpath("//li[@class='nav-item']/a[@data-original-title='Feedback']"), "feedback", 20);
+		}
+		/*Click on User feedback Question */
+		public void clickOnuserfeedbackQuestion() {
+			click(By.xpath("//div[@class='listing']/descendant::table[@id='FeedbackList']/descendant::tbody/tr/td/a[@class='aShowFeedbackDetail']"), "feedback question", 20);
+		}
+		/* Validate feedback Page */
+		public void validateFeedBack() {
+			String feedBack = driver.findElement(By.xpath("//h5[text()='Feedback']")).getText();
+			if(feedBack.contains("Feedback")) {
+		
+				getTest().log(LogStatus.PASS, "Feedback Page displayed ");
+                logger.info("Feedback Page displayed ");
+				
+			}else {
+				System.out.println("Feedback Page is not displaying");
+				getTest().log(LogStatus.FAIL, "Feedback Page is not displaying");
+                logger.info("Feedback Page is not displaying");
+                takeScreenshot(feedBack);
+			}
+		
+		}
+		/* Close FeedbackPage */
+		public void clickOnfeedbackClosebutton() {
+			click(By.xpath("//div[@class='modal-header ui-draggable-handle']/h5[text()='Feedback']/ancestor::div[@class='modal-content']/descendant::button[@type='button']"), "Feedback Page Closed", 20);
+		}
+
+		/* Click on User Skill */
+		public void clickOnUserSkill() {
+			click(By.xpath("//li[@class='nav-item']/a[@data-original-title='Skill']"), "skill", 20);
+		}
+		/* Click on User Skill Title */
+		public void clickOnUserSkillTitle() {
+			click(By.xpath("(//thead[@class='thead-bg']/tr/th[@id='th-TITLE']/ancestor::table[@id='NoteList']/descendant::tbody/tr/td/a[@class='aShowSkillDetail'])[1]"), "skill Title", 20);
+		}
+		/* Validate skill Page */
+		public void validateSkill() {
+			String skill = driver.findElement(By.xpath("//h5[text()='Skill']")).getText();
+			if(skill.contains("Skill")) {
+		
+				getTest().log(LogStatus.PASS, "Skill Page displayed ");
+                logger.info("Skill Page displayed");
+				
+			}else {
+				
+				getTest().log(LogStatus.FAIL, "Skill Page is not displaying");
+                logger.info("Skill Page is not displaying");
+                takeScreenshot(skill);
+			}
+		
+		}
+		/* Close SkillPage */
+		public void clickOnSkillClosebutton() {
+			click(By.xpath("//div[@class='modal-header ui-draggable-handle']/h5[text()='Skill']/ancestor::div[@class='modal-content']/descendant::button[@type='button']"), "Skill Page Closed", 20);
+		}
+	
 	
 
 	// click on My Team
