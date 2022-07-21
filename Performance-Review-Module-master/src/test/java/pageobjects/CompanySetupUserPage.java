@@ -12,6 +12,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 
 import com.relevantcodes.extentreports.LogStatus;
 
@@ -56,16 +57,41 @@ public class CompanySetupUserPage extends WebBasePage {
 		 * findElementInVisibility(By.cssSelector("#navbarDropdownPortfolio"), 20);
 		 * click(By.cssSelector("#navbarDropdownPortfolio"), "Full Menu", 20);
 		 */
-		click(By.xpath("//span[text()='Full Menu']"), "Full Menu", 30);
-		staticWait(2000);
+		/*
+		 * click(By.xpath("//span[text()='Full Menu']"), "Full Menu", 30);
+		 * staticWait(2000);
+		 */
+			staticWait(3000);
+		try {
+			WebElement tourGuide = driver.findElement(By.xpath("(//*[name()='svg' and @class='guided-tour-icon'])[1]"));
+			
+			if(tourGuide.isDisplayed()) {
+
+				Actions action = new Actions(driver);
+				action.moveToElement(tourGuide).
+				click().build().perform();
+				
+			click(By.xpath("//span[text()='Full Menu']"), "Full Menu", 20);
+			}
+			
+		} catch (Exception e) {
+			// TODO: handle exception
+			click(By.xpath("//span[text()='Full Menu']"), "Full Menu", 20);
+		}
+			
+			
+				 
+		}
+
 		
-	}
+	
 
 	// click on aCompany Setup
 	public void clickOnCompanySetup() {
+		staticWait(2000);
 		//clickByJavascript(By.xpath("//a[@data-original-title='User']"), "Company Setup", 20);
 		 click(By.xpath("//li[@data-name='COMPANY SETUP']"),"Company Setup Link", 30);
-		staticWait(2000);
+		
 	}
 
 	// click on User
@@ -75,6 +101,7 @@ public class CompanySetupUserPage extends WebBasePage {
 		 * "//li[@data-name='COMPANY']//a//i//following::text()[1]//following::span[1]")
 		 * , "Company Side menu", 20);
 		 */
+		staticWait(3000);
 		click(By.xpath("//a[@data-original-title='User']/i"), "Company Side menu", 20);
 		staticWait(2000);
 		 

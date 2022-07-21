@@ -38,7 +38,7 @@ public class PerformanceReviewAction extends WebBasePage {
 		performanceReviewPage.clickNote();
 		performanceReviewPage.clickOnCreatedNote();
 		performanceReviewPage.enterCommentNote();
-		performanceReviewPage.clickPostCommenNotet();
+		performanceReviewPage.clickPostCommentNote();
 		performanceReviewPage.clickOnReview();
 	}
 
@@ -62,11 +62,23 @@ public class PerformanceReviewAction extends WebBasePage {
 		performanceReviewPage.clickOnUserReviewTitle();
 		
 	}
-	public void validatefeedbackPage() {
-		performanceReviewPage.clickOnuserfeedback();
-		performanceReviewPage.clickOnuserfeedbackQuestion();
-		performanceReviewPage.validateFeedBack();
-		performanceReviewPage.clickOnfeedbackClosebutton();
+	public void validateOverviewPage() {
+		performanceReviewPage.clickOnOverview();
+		performanceReviewPage.validatOverviewPage();
+		
+	}
+	public void validateNotePage() {
+		performanceReviewPage.clickOnUserNote();
+		performanceReviewPage.clickOnUserNoteTitle();
+		performanceReviewPage.validatNote();
+		performanceReviewPage.clickOnNoteClosebutton();
+		
+	}
+	public void validateGoalPage() {
+		performanceReviewPage.clickOnUserGoal();
+		performanceReviewPage.clickOnUserGoalTitle();
+		performanceReviewPage.validateGoal();
+		performanceReviewPage.clickOnGoalClosebutton();
 		
 	}
 	public void validateSkillPage() {
@@ -77,13 +89,21 @@ public class PerformanceReviewAction extends WebBasePage {
 		
 	}
 	
-	public void clickonQuestion() {
+
+	public void validatefeedbackPage() {
+		performanceReviewPage.clickOnuserfeedback();
+		performanceReviewPage.clickOnuserfeedbackQuestion();
+		performanceReviewPage.validateFeedBack();
+		performanceReviewPage.clickOnfeedbackClosebutton();
+		
+	}
+		public void clickonQuestion() {
 		performanceReviewPage.clickOnQuestiopn();
 		performanceReviewPage.clickOnShortTermGoalRating();
 		performanceReviewPage.enterShortTermGoal();
 		performanceReviewPage.clickOnLongTermGoalRating();
 		performanceReviewPage.enterLongTermGoal();
-		performanceReviewPage.clickOnCurrentAppraisalCycleRating();
+		performanceReviewPage.clickOnCurrentApprasialCycleRating();
 		performanceReviewPage.enterurrentAppraisalCycle();
 		performanceReviewPage.clickOnWeaknessRating();
 		performanceReviewPage.enterweaknesses();

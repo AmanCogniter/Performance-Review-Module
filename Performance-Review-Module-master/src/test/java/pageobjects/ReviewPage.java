@@ -6,6 +6,8 @@ import java.util.Properties;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 
 import utils.DateTime;
 import utils.PropertiesLoader;
@@ -35,9 +37,32 @@ public class ReviewPage extends WebBasePage {
 
 	// click on full menu
 	public void clickFullMenu() {
-		findElementInVisibility(By.cssSelector("#navbarDropdownPortfolio"), 20);
-		click(By.cssSelector("#navbarDropdownPortfolio"), "Full Menu", 20);
-	}
+		/*
+		 * findElementInVisibility(By.cssSelector("#navbarDropdownPortfolio"), 20);
+		 * click(By.cssSelector("#navbarDropdownPortfolio"), "Full Menu", 20);
+		 */
+			staticWait(3000);
+		try {
+			WebElement tourGuide = driver.findElement(By.xpath("(//*[name()='svg' and @class='guided-tour-icon'])[1]"));
+			
+			if(tourGuide.isDisplayed()) {
+
+				Actions action = new Actions(driver);
+				action.moveToElement(tourGuide).
+				click().build().perform();
+				
+			click(By.xpath("//span[text()='Full Menu']"), "Full Menu", 20);
+			}
+			
+		} catch (Exception e) {
+			// TODO: handle exception
+			click(By.xpath("//span[text()='Full Menu']"), "Full Menu", 20);
+		}
+			
+			
+				 
+		}
+	
 
 	// click on performance Side menu
 	public void clickPerformanceSideMenu() {

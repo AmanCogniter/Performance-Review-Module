@@ -9490,3 +9490,1721 @@ Session ID: 2d6f907d1fb8fb67dd3d18a3c18558ac
 2022-07-07 16:56:23,408  INFO [main] Performance Review Page:77 - feedback clicked 
 2022-07-07 16:56:23,474  INFO [main] Performance Review Page:286 - Feedback Page displayed 
 2022-07-07 16:56:24,415  INFO [main] Performance Review Page:77 - Feedback Page Closed clicked 
+2022-07-08 10:09:56,581  INFO [main] User Login Page:56 - User Name entered with value - TestUser220707130058@yopmail.com
+2022-07-08 10:09:56,998  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 10:09:57,329  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 10:09:58,218  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 10:10:06,616  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-08 10:10:08,976  INFO [main] Performance Review Page:77 - Performance Side menu clicked 
+2022-07-08 10:10:13,431  INFO [main] Performance Review Page:77 - Perfromance Review clicked 
+2022-07-08 10:10:14,867  INFO [main] Performance Review Page:77 - Goal clicked 
+2022-07-08 10:10:18,346  INFO [main] Performance Review Page:77 - Created Goal clicked 
+2022-07-08 10:10:24,349  INFO [main] Performance Review Page:77 - Goal saved clicked 
+2022-07-08 10:10:30,569  INFO [main] Performance Review Page:77 - Review clicked 
+2022-07-08 10:10:31,282  INFO [main] Performance Review Page:77 - Note clicked 
+2022-07-08 10:10:38,069  INFO [main] Performance Review Page:77 - Created Note clicked 
+2022-07-08 10:10:38,522  INFO [main] Performance Review Page:56 - Enter comment Note entered with value - Enter goal Note
+2022-07-08 10:10:39,694  INFO [main] Performance Review Page:77 - Post comment clicked 
+2022-07-08 10:10:45,672  INFO [main] Performance Review Page:77 - Review clicked 
+2022-07-08 10:10:46,388  INFO [main] Performance Review Page:77 - Feedback clicked 
+2022-07-08 10:10:52,579  INFO [main] Performance Review Page:77 - Feedback Title clicked 
+2022-07-08 10:10:53,080  INFO [main] Performance Review Page:56 - enter comment Note entered with value - Enter goal Comment
+2022-07-08 10:10:54,106  INFO [main] Performance Review Page:77 - Feedback Post New Comment clicked 
+2022-07-08 10:11:00,124  INFO [main] Performance Review Page:77 - Back to list clicked 
+2022-07-08 10:11:00,883  INFO [main] Performance Review Page:77 - Skill clicked 
+2022-07-08 10:11:04,620  INFO [main] Performance Review Page:77 - Skill Title clicked 
+2022-07-08 10:11:08,571  INFO [main] Performance Review Page:56 - enter comment Note entered with value - enter Skill Comment
+2022-07-08 10:11:11,685  INFO [main] Performance Review Page:77 - Skill saved clicked 
+2022-07-08 10:11:12,382  INFO [main] Performance Review Page:77 - User Performance Review clicked 
+2022-07-08 10:11:57,734  INFO [main] User Login Page:56 - User Name entered with value - TestUser220707130058@yopmail.com
+2022-07-08 10:11:58,139  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 10:11:58,463  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 10:11:59,130  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 10:12:06,245  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-08 10:12:08,590  INFO [main] Performance Review Page:77 - Performance Side menu clicked 
+2022-07-08 10:12:12,880  INFO [main] Performance Review Page:77 - Perfromance Review clicked 
+2022-07-08 10:12:14,327  INFO [main] Performance Review Page:77 - Goal clicked 
+2022-07-08 10:12:17,145  INFO [main] Performance Review Page:77 - Created Goal clicked 
+2022-07-08 10:12:23,134  INFO [main] Performance Review Page:77 - Goal saved clicked 
+2022-07-08 10:12:29,231  INFO [main] Performance Review Page:77 - Review clicked 
+2022-07-08 10:12:29,944  INFO [main] Performance Review Page:77 - Note clicked 
+2022-07-08 10:12:35,966  INFO [main] Performance Review Page:77 - Created Note clicked 
+2022-07-08 10:12:36,418  INFO [main] Performance Review Page:56 - Enter comment Note entered with value - Enter goal Note
+2022-07-08 10:12:37,471  INFO [main] Performance Review Page:77 - Post comment clicked 
+2022-07-08 10:12:41,920  INFO [main] Performance Review Page:80 - Review not clicked
+2022-07-08 10:12:42,490  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708101242.png
+2022-07-08 10:16:27,541  INFO [main] User Login Page:56 - User Name entered with value - TestUser220707130058@yopmail.com
+2022-07-08 10:16:27,947  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 10:16:28,268  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 10:16:28,948  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 10:16:36,506  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-08 10:16:38,828  INFO [main] Performance Review Page:77 - Performance Side menu clicked 
+2022-07-08 10:16:43,725  INFO [main] Performance Review Page:77 - Perfromance Review clicked 
+2022-07-08 10:16:45,017  INFO [main] Performance Review Page:77 - Goal clicked 
+2022-07-08 10:16:48,630  INFO [main] Performance Review Page:77 - Created Goal clicked 
+2022-07-08 10:16:54,635  INFO [main] Performance Review Page:77 - Goal saved clicked 
+2022-07-08 10:17:00,798  INFO [main] Performance Review Page:77 - Review clicked 
+2022-07-08 10:17:01,565  INFO [main] Performance Review Page:77 - Note clicked 
+2022-07-08 10:17:07,637  INFO [main] Performance Review Page:77 - Created Note clicked 
+2022-07-08 10:17:08,113  INFO [main] Performance Review Page:56 - Enter comment Note entered with value - Enter goal Note
+2022-07-08 10:17:09,153  INFO [main] Performance Review Page:77 - Post comment clicked 
+2022-07-08 10:17:15,225  INFO [main] Performance Review Page:77 - Review clicked 
+2022-07-08 10:17:15,958  INFO [main] Performance Review Page:77 - Feedback clicked 
+2022-07-08 10:17:21,700  INFO [main] Performance Review Page:77 - Feedback Title clicked 
+2022-07-08 10:17:22,155  INFO [main] Performance Review Page:56 - enter comment Note entered with value - Enter goal Comment
+2022-07-08 10:17:23,195  INFO [main] Performance Review Page:77 - Feedback Post New Comment clicked 
+2022-07-08 10:17:29,242  INFO [main] Performance Review Page:77 - Back to list clicked 
+2022-07-08 10:17:29,953  INFO [main] Performance Review Page:77 - Skill clicked 
+2022-07-08 10:17:33,675  INFO [main] Performance Review Page:77 - Skill Title clicked 
+2022-07-08 10:17:37,957  INFO [main] Performance Review Page:56 - enter comment Note entered with value - enter Skill Comment
+2022-07-08 10:17:41,116  INFO [main] Performance Review Page:77 - Skill saved clicked 
+2022-07-08 10:17:41,909  INFO [main] Performance Review Page:77 - User Performance Review clicked 
+2022-07-08 10:17:46,972  INFO [main] Performance Review Page:77 - User Review Title clicked 
+2022-07-08 10:17:48,863  INFO [main] Performance Review Page:77 - skill clicked 
+2022-07-08 10:17:49,998  INFO [main] Performance Review Page:77 - skill Title clicked 
+2022-07-08 10:17:50,078  INFO [main] Performance Review Page:318 - Skill Page displayed
+2022-07-08 10:17:52,012  INFO [main] Performance Review Page:77 - Skill Page Closed clicked 
+2022-07-08 10:17:52,878  INFO [main] Performance Review Page:77 - feedback clicked 
+2022-07-08 10:17:53,722  INFO [main] Performance Review Page:77 - feedback question clicked 
+2022-07-08 10:17:53,780  INFO [main] Performance Review Page:289 - Feedback Page displayed 
+2022-07-08 10:17:54,688  INFO [main] Performance Review Page:77 - Feedback Page Closed clicked 
+2022-07-08 10:17:55,575  INFO [main] Performance Review Page:77 - User Question clicked 
+2022-07-08 10:17:56,520  INFO [main] Performance Review Page:77 - Short Term Goal Rating clicked 
+2022-07-08 10:17:56,882  INFO [main] Performance Review Page:60 - Enter Short Term Goal not entered with value - Add Short Term Goal, error exist - org.openqa.selenium.InvalidElementStateException: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=103.0.5060.114)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'COG-WIN-MAC04', ip: '192.168.0.168', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\aanand\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:61944}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a03b6d6c557873a4d9e4742c0ac0c2cd
+2022-07-08 10:17:57,492  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708101757.png
+2022-07-08 11:05:34,684  INFO [main] User Login Page:56 - User Name entered with value - TestUser220707130058@yopmail.com
+2022-07-08 11:05:35,092  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 11:05:35,419  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 11:05:36,112  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 11:05:42,708  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-08 11:05:45,111  INFO [main] Performance Review Page:77 - Performance Side menu clicked 
+2022-07-08 11:05:49,659  INFO [main] Performance Review Page:77 - Perfromance Review clicked 
+2022-07-08 11:05:50,952  INFO [main] Performance Review Page:77 - Goal clicked 
+2022-07-08 11:05:53,761  INFO [main] Performance Review Page:77 - Created Goal clicked 
+2022-07-08 11:05:59,817  INFO [main] Performance Review Page:77 - Goal saved clicked 
+2022-07-08 11:06:05,909  INFO [main] Performance Review Page:77 - Review clicked 
+2022-07-08 11:06:06,632  INFO [main] Performance Review Page:77 - Note clicked 
+2022-07-08 11:06:12,749  INFO [main] Performance Review Page:77 - Created Note clicked 
+2022-07-08 11:06:13,232  INFO [main] Performance Review Page:56 - Enter comment Note entered with value - Enter goal Note
+2022-07-08 11:06:14,276  INFO [main] Performance Review Page:77 - Post comment clicked 
+2022-07-08 11:06:20,394  INFO [main] Performance Review Page:77 - Review clicked 
+2022-07-08 11:06:21,130  INFO [main] Performance Review Page:77 - Feedback clicked 
+2022-07-08 11:06:26,978  INFO [main] Performance Review Page:77 - Feedback Title clicked 
+2022-07-08 11:06:27,433  INFO [main] Performance Review Page:56 - enter comment Note entered with value - Enter goal Comment
+2022-07-08 11:06:28,469  INFO [main] Performance Review Page:77 - Feedback Post New Comment clicked 
+2022-07-08 11:06:34,519  INFO [main] Performance Review Page:77 - Back to list clicked 
+2022-07-08 11:06:35,234  INFO [main] Performance Review Page:77 - Skill clicked 
+2022-07-08 11:06:38,952  INFO [main] Performance Review Page:77 - Skill Title clicked 
+2022-07-08 11:06:42,478  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708110642.png
+2022-07-08 11:09:54,099  INFO [main] User Login Page:56 - User Name entered with value - TestUser220707130058@yopmail.com
+2022-07-08 11:09:54,509  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 11:09:54,844  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 11:09:55,505  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 11:10:04,889  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-08 11:10:07,322  INFO [main] Performance Review Page:77 - Performance Side menu clicked 
+2022-07-08 11:10:11,697  INFO [main] Performance Review Page:77 - Perfromance Review clicked 
+2022-07-08 11:10:12,943  INFO [main] Performance Review Page:77 - Goal clicked 
+2022-07-08 11:10:15,827  INFO [main] Performance Review Page:77 - Created Goal clicked 
+2022-07-08 11:10:21,644  INFO [main] Performance Review Page:77 - Goal saved clicked 
+2022-07-08 11:10:27,828  INFO [main] Performance Review Page:77 - Review clicked 
+2022-07-08 11:10:28,558  INFO [main] Performance Review Page:77 - Note clicked 
+2022-07-08 11:10:34,662  INFO [main] Performance Review Page:77 - Created Note clicked 
+2022-07-08 11:10:35,115  INFO [main] Performance Review Page:56 - Enter comment Note entered with value - Enter goal Note
+2022-07-08 11:10:36,179  INFO [main] Performance Review Page:77 - Post comment clicked 
+2022-07-08 11:10:42,295  INFO [main] Performance Review Page:77 - Review clicked 
+2022-07-08 11:10:43,022  INFO [main] Performance Review Page:77 - Feedback clicked 
+2022-07-08 11:10:48,808  INFO [main] Performance Review Page:77 - Feedback Title clicked 
+2022-07-08 11:10:49,259  INFO [main] Performance Review Page:56 - enter comment Note entered with value - Enter goal Comment
+2022-07-08 11:10:50,244  INFO [main] Performance Review Page:77 - Feedback Post New Comment clicked 
+2022-07-08 11:10:56,251  INFO [main] Performance Review Page:77 - Back to list clicked 
+2022-07-08 11:10:56,980  INFO [main] Performance Review Page:77 - Skill clicked 
+2022-07-08 11:11:00,669  INFO [main] Performance Review Page:77 - Skill Title clicked 
+2022-07-08 11:11:04,214  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708111103.png
+2022-07-08 11:13:31,669  INFO [main] User Login Page:56 - User Name entered with value - TestUser220707130058@yopmail.com
+2022-07-08 11:13:32,062  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 11:13:32,377  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 11:13:33,051  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 11:13:40,207  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-08 11:13:42,614  INFO [main] Performance Review Page:77 - Performance Side menu clicked 
+2022-07-08 11:13:46,998  INFO [main] Performance Review Page:77 - Perfromance Review clicked 
+2022-07-08 11:13:48,414  INFO [main] Performance Review Page:77 - Goal clicked 
+2022-07-08 11:13:51,161  INFO [main] Performance Review Page:77 - Created Goal clicked 
+2022-07-08 11:13:57,141  INFO [main] Performance Review Page:77 - Goal saved clicked 
+2022-07-08 11:14:03,246  INFO [main] Performance Review Page:77 - Review clicked 
+2022-07-08 11:14:03,953  INFO [main] Performance Review Page:77 - Note clicked 
+2022-07-08 11:14:10,012  INFO [main] Performance Review Page:77 - Created Note clicked 
+2022-07-08 11:14:10,471  INFO [main] Performance Review Page:56 - Enter comment Note entered with value - Enter goal Note
+2022-07-08 11:14:11,548  INFO [main] Performance Review Page:77 - Post comment clicked 
+2022-07-08 11:14:17,583  INFO [main] Performance Review Page:77 - Review clicked 
+2022-07-08 11:14:18,293  INFO [main] Performance Review Page:77 - Feedback clicked 
+2022-07-08 11:14:24,011  INFO [main] Performance Review Page:77 - Feedback Title clicked 
+2022-07-08 11:14:24,529  INFO [main] Performance Review Page:56 - enter comment Note entered with value - Enter goal Comment
+2022-07-08 11:14:25,573  INFO [main] Performance Review Page:77 - Feedback Post New Comment clicked 
+2022-07-08 11:14:31,674  INFO [main] Performance Review Page:77 - Back to list clicked 
+2022-07-08 11:14:32,422  INFO [main] Performance Review Page:77 - Skill clicked 
+2022-07-08 11:14:36,770  INFO [main] Performance Review Page:77 - Skill Title clicked 
+2022-07-08 11:14:41,081  INFO [main] Performance Review Page:56 - enter comment Note entered with value - enter Skill Comment
+2022-07-08 11:14:44,261  INFO [main] Performance Review Page:77 - Skill saved clicked 
+2022-07-08 11:14:44,984  INFO [main] Performance Review Page:77 - User Performance Review clicked 
+2022-07-08 11:14:49,657  INFO [main] Performance Review Page:77 - User Review Title clicked 
+2022-07-08 11:14:51,432  INFO [main] Performance Review Page:77 - Overview clicked 
+2022-07-08 11:14:51,477  INFO [main] Performance Review Page:403 - Overview Page displayed
+2022-07-08 11:14:52,356  INFO [main] Performance Review Page:77 - Note clicked 
+2022-07-08 11:14:53,331  INFO [main] Performance Review Page:77 - Note Title clicked 
+2022-07-08 11:14:53,371  INFO [main] Performance Review Page:377 - Note Page displayed
+2022-07-08 11:14:54,357  INFO [main] Performance Review Page:77 - Note Page Closed clicked 
+2022-07-08 11:14:55,328  INFO [main] Performance Review Page:77 - Goal clicked 
+2022-07-08 11:14:56,322  INFO [main] Performance Review Page:77 - Goal Title clicked 
+2022-07-08 11:14:56,385  INFO [main] Performance Review Page:348 - Goal Page displayed
+2022-07-08 11:14:57,260  INFO [main] Performance Review Page:77 - Goal Page Closed clicked 
+2022-07-08 11:14:58,205  INFO [main] Performance Review Page:77 - skill clicked 
+2022-07-08 11:14:59,200  INFO [main] Performance Review Page:77 - skill Title clicked 
+2022-07-08 11:14:59,237  INFO [main] Performance Review Page:318 - Skill Page displayed
+2022-07-08 11:15:00,165  INFO [main] Performance Review Page:77 - Skill Page Closed clicked 
+2022-07-08 11:15:01,063  INFO [main] Performance Review Page:77 - feedback clicked 
+2022-07-08 11:15:02,100  INFO [main] Performance Review Page:77 - feedback question clicked 
+2022-07-08 11:15:02,210  INFO [main] Performance Review Page:289 - Feedback Page displayed 
+2022-07-08 11:15:03,152  INFO [main] Performance Review Page:77 - Feedback Page Closed clicked 
+2022-07-08 11:15:04,150  INFO [main] Performance Review Page:77 - User Question clicked 
+2022-07-08 11:15:05,167  INFO [main] Performance Review Page:77 - Short Term Goal Rating clicked 
+2022-07-08 11:15:05,514  INFO [main] Performance Review Page:60 - Enter Short Term Goal not entered with value - Add Short Term Goal, error exist - org.openqa.selenium.InvalidElementStateException: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=103.0.5060.114)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'COG-WIN-MAC04', ip: '192.168.0.168', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\aanand\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:63828}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e9a6f642aec03b19ab936ce9ccfb64b7
+2022-07-08 11:15:06,068  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708111505.png
+2022-07-08 11:26:42,345  INFO [main] Add Expense Limit:177 - Name generated is AJAKBBCHFC
+2022-07-08 11:26:42,892  INFO [main] User Login Page:56 - User Name entered with value - Sql@yopmail.com
+2022-07-08 11:26:43,293  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 11:26:43,609  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 11:26:44,282  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 11:26:54,581  INFO [main] User Login Page:77 - Full Menu clicked 
+2022-07-08 11:26:56,928  INFO [main] User Login Page:77 - Company Setup Link clicked 
+2022-07-08 11:27:02,772  INFO [main] User Login Page:77 - Company Side menu clicked 
+2022-07-08 11:27:10,916  INFO [main] User Login Page:268 - Add User clicked 
+2022-07-08 11:27:11,551  INFO [main] User Login Page:77 - Save button clicked 
+2022-07-08 11:27:40,963  INFO [main] User Login Page:215 - The Asterisk symbol is displayed for User Type field
+2022-07-08 11:27:40,997  INFO [main] User Login Page:237 - Error message for "User Type" field is displayed as expected
+2022-07-08 11:28:02,107  INFO [main] User Login Page:215 - The Asterisk symbol is displayed for First Name field
+2022-07-08 11:28:02,158  INFO [main] User Login Page:237 - Error message for "First Name" field is displayed as expected
+2022-07-08 11:28:23,380  INFO [main] User Login Page:215 - The Asterisk symbol is displayed for Last Name field
+2022-07-08 11:28:23,459  INFO [main] User Login Page:237 - Error message for "Last Name" field is displayed as expected
+2022-07-08 11:28:44,854  INFO [main] User Login Page:215 - The Asterisk symbol is displayed for Email field
+2022-07-08 11:28:44,937  INFO [main] User Login Page:237 - Error message for "Email" field is displayed as expected
+2022-07-08 11:29:06,268  INFO [main] User Login Page:215 - The Asterisk symbol is displayed for Password field
+2022-07-08 11:29:06,353  INFO [main] User Login Page:237 - Error message for "Password" field is displayed as expected
+2022-07-08 11:29:27,612  INFO [main] User Login Page:215 - The Asterisk symbol is displayed for Confirm Password field
+2022-07-08 11:29:27,685  INFO [main] User Login Page:237 - Error message for "Confirm Password" field is displayed as expected
+2022-07-08 11:29:40,240  INFO [main] User Login Page:268 - Logout menu clicked 
+2022-07-08 11:29:43,371  INFO [main] User Login Page:268 - Logout clicked 
+2022-07-08 11:29:46,141  INFO [main] User Login Page:56 - User Name entered with value - Sql@yopmail.com
+2022-07-08 11:29:46,559  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 11:29:46,910  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 11:29:47,267  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 11:29:47,980  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 11:29:54,740  INFO [main] Company Setup User Page:77 - Full Menu clicked 
+2022-07-08 11:29:57,145  INFO [main] Company Setup User Page:77 - Company Setup Link clicked 
+2022-07-08 11:30:02,699  INFO [main] Company Setup User Page:77 - Company Side menu clicked 
+2022-07-08 11:30:09,980  INFO [main] Company Setup User Page:268 - Add User clicked 
+2022-07-08 11:30:12,664  INFO [main] Company Setup User Page:56 - First name entered with value - Automation
+2022-07-08 11:30:13,145  INFO [main] Company Setup User Page:56 - Last name entered with value - UserAJAKBBCHFC
+2022-07-08 11:30:13,685  INFO [main] Company Setup User Page:56 - Email entered with value - TestUser220708112642@yopmail.com
+2022-07-08 11:30:15,140  INFO [main] Company Setup User Page:77 - Enable Login switch clicked 
+2022-07-08 11:30:15,577  INFO [main] Company Setup User Page:56 - Password entered with value - @Password1
+2022-07-08 11:30:16,014  INFO [main] Company Setup User Page:56 - ConfirmPassword entered with value - @Password1
+2022-07-08 11:30:18,894  INFO [main] Company Setup User Page:77 - Date picker clicked 
+2022-07-08 11:30:19,314  INFO [main] Company Setup User Page:77 - Todays Date clicked 
+2022-07-08 11:30:20,093  INFO [main] Company Setup User Page:77 - Date picker clicked 
+2022-07-08 11:30:20,478  INFO [main] Company Setup User Page:77 - Date of joining clicked 
+2022-07-08 11:30:21,131  INFO [main] Company Setup User Page:77 - Date picker clicked 
+2022-07-08 11:30:21,500  INFO [main] Company Setup User Page:77 - Date of leave clicked 
+2022-07-08 11:30:26,639  INFO [main] Company Setup User Page:56 - Employee Id: entered with value - 22070811264212345
+2022-07-08 11:30:27,131  INFO [main] Company Setup User Page:56 - Alias Name entered with value - AliasName220708112642
+2022-07-08 11:30:27,746  INFO [main] Company Setup User Page:77 - Virtual User switch clicked 
+2022-07-08 11:30:31,734  INFO [main] Company Setup User Page:77 - Save button clicked 
+2022-07-08 11:30:44,099  INFO [main] Company Setup User Page:77 - Action button clicked 
+2022-07-08 11:30:46,688  INFO [main] Company Setup User Page:77 - Associate Licenses button clicked 
+2022-07-08 11:30:49,555  INFO [main] Company Setup User Page:268 - Performance Review License clicked 
+2022-07-08 11:30:55,284  INFO [main] Company Setup User Page:268 - user clicked 
+2022-07-08 11:31:01,930  INFO [main] Company Setup User Page:268 - feedback clicked 
+2022-07-08 11:31:07,399  INFO [main] Company Setup User Page:268 - feedback clicked 
+2022-07-08 11:31:10,925  INFO [main] Company Setup User Page:56 - feedback Question entered with value - Add Feedback Question
+2022-07-08 11:31:16,494  INFO [main] Company Setup User Page:268 - toggle button clicked 
+2022-07-08 11:31:20,044  INFO [main] Company Setup User Page:56 - user Name  entered with value - UserAJAKBBCHFC
+2022-07-08 11:31:23,929  INFO [main] Company Setup User Page:77 - Select CheckBox clicked 
+2022-07-08 11:31:27,824  INFO [main] Company Setup User Page:268 - Save Feedback clicked 
+2022-07-08 11:31:31,704  INFO [main] Company Setup User Page:268 - Goal clicked 
+2022-07-08 11:31:36,968  INFO [main] Company Setup User Page:268 - Add Goal clicked 
+2022-07-08 11:31:37,422  INFO [main] Company Setup User Page:56 - title description entered with value - AJAKBBCHFC
+2022-07-08 11:31:40,264  INFO [main] Company Setup User Page:268 - start date clicked 
+2022-07-08 11:31:42,852  INFO [main] Company Setup User Page:268 - End date clicked 
+2022-07-08 11:31:43,337  INFO [main] Company Setup User Page:56 - goal description entered with value - Add Goal description 
+2022-07-08 11:31:50,252  INFO [main] Company Setup User Page:268 - Save Goal clicked 
+2022-07-08 11:31:53,644  INFO [main] Company Setup User Page:268 - note tab clicked 
+2022-07-08 11:31:56,252  INFO [main] Company Setup User Page:268 - Add new note clicked 
+2022-07-08 11:31:57,420  INFO [main] Company Setup User Page:56 - title description entered with value - AJAKBBCHFC
+2022-07-08 11:31:57,880  INFO [main] Company Setup User Page:56 - enter Note Description entered with value - Add Note description
+2022-07-08 11:31:59,984  INFO [main] Company Setup User Page:268 - save button clicked 
+2022-07-08 11:32:08,037  INFO [main] Company Setup User Page:77 - PerformanceReviewTab clicked 
+2022-07-08 11:32:12,111  INFO [main] Company Setup User Page:77 - Add Review clicked 
+2022-07-08 11:32:12,746  INFO [main] Company Setup User Page:56 - enter title entered with value - Add Review Title
+2022-07-08 11:32:13,179  INFO [main] Company Setup User Page:56 - enter Start Date entered with value - 07/08/2022
+2022-07-08 11:32:14,023  INFO [main] Company Setup User Page:56 - enter End Date entered with value - 07/18/2022
+2022-07-08 11:32:14,652  INFO [main] Company Setup User Page:56 - enter Due Date entered with value - 07/08/2022
+2022-07-08 11:32:16,383  INFO [main] Company Setup User Page:56 - enter Review Description entered with value - Add Review description
+2022-07-08 11:32:17,024  INFO [main] Company Setup User Page:77 - Add first Reviewer clicked 
+2022-07-08 11:32:17,707  INFO [main] Company Setup User Page:77 - Add Approver button clicked 
+2022-07-08 11:32:18,161  INFO [main] Company Setup User Page:56 - enter Reviewer Due date entered with value - 07/08/2022
+2022-07-08 11:32:20,127  INFO [main] Company Setup User Page:77 - Save button clicked 
+2022-07-08 11:32:23,991  INFO [main] Company Setup User Page:268 -  Skill tab clicked 
+2022-07-08 11:32:26,590  INFO [main] Company Setup User Page:268 - Add Skill clicked 
+2022-07-08 11:32:30,471  INFO [main] Company Setup User Page:77 - Select Check Box clicked 
+2022-07-08 11:32:36,482  INFO [main] Company Setup User Page:268 - Save Skill for created user. clicked 
+2022-07-08 11:32:39,604  INFO [main] Company Setup User Page:268 - Create New skill clicked 
+2022-07-08 11:32:41,303  INFO [main] Company Setup User Page:56 - skill Description entered with value - Add Skill description
+2022-07-08 11:32:44,611  INFO [main] Company Setup User Page:268 - Post New Comment clicked 
+2022-07-08 11:32:47,871  INFO [main] Company Setup User Page:268 - Save Skill clicked 
+2022-07-08 12:18:05,489  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708112642@yopmail.com
+2022-07-08 12:18:05,882  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 12:18:06,207  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 12:18:06,893  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 12:18:13,901  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-08 12:18:17,359  INFO [main] Performance Review Page:80 - Performance Side menu not clicked
+2022-07-08 12:18:17,996  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708121817.png
+2022-07-08 12:34:17,536  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708112642@yopmail.com
+2022-07-08 12:34:17,936  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 12:34:18,265  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 12:34:18,954  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 12:34:18,965  INFO [main] Add Expense Limit:177 - Name generated is AJAKBCDFBK
+2022-07-08 12:34:29,113  INFO [main] Company Setup User Page:80 - Full Menu not clicked
+2022-07-08 12:34:29,704  INFO [main] CompanySetupTest-addUser:84 - Method - addUser failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addUser_20220708123429.png
+2022-07-08 12:35:15,821  INFO [main] User Login Page:56 - User Name entered with value - Sql@yopmail.com
+2022-07-08 12:35:16,226  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 12:35:16,560  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 12:35:17,223  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 12:35:17,234  INFO [main] Add Expense Limit:177 - Name generated is AJAKBCDGBJ
+2022-07-08 12:35:24,054  INFO [main] Company Setup User Page:77 - Full Menu clicked 
+2022-07-08 12:35:26,501  INFO [main] Company Setup User Page:77 - Company Setup Link clicked 
+2022-07-08 12:35:32,367  INFO [main] Company Setup User Page:77 - Company Side menu clicked 
+2022-07-08 12:35:39,814  INFO [main] Company Setup User Page:268 - Add User clicked 
+2022-07-08 12:35:42,176  INFO [main] Company Setup User Page:56 - First name entered with value - Automation
+2022-07-08 12:35:42,686  INFO [main] Company Setup User Page:56 - Last name entered with value - UserAJAKBCDGBJ
+2022-07-08 12:35:43,189  INFO [main] Company Setup User Page:56 - Email entered with value - TestUser220708123517@yopmail.com
+2022-07-08 12:35:44,647  INFO [main] Company Setup User Page:77 - Enable Login switch clicked 
+2022-07-08 12:35:45,102  INFO [main] Company Setup User Page:56 - Password entered with value - @Password1
+2022-07-08 12:35:45,505  INFO [main] Company Setup User Page:56 - ConfirmPassword entered with value - @Password1
+2022-07-08 12:35:48,319  INFO [main] Company Setup User Page:77 - Date picker clicked 
+2022-07-08 12:35:48,741  INFO [main] Company Setup User Page:77 - Todays Date clicked 
+2022-07-08 12:35:49,584  INFO [main] Company Setup User Page:77 - Date picker clicked 
+2022-07-08 12:35:49,985  INFO [main] Company Setup User Page:77 - Date of joining clicked 
+2022-07-08 12:35:50,680  INFO [main] Company Setup User Page:77 - Date picker clicked 
+2022-07-08 12:35:51,070  INFO [main] Company Setup User Page:77 - Date of leave clicked 
+2022-07-08 12:35:55,716  INFO [main] Company Setup User Page:56 - Employee Id: entered with value - 22070812351712345
+2022-07-08 12:35:56,237  INFO [main] Company Setup User Page:56 - Alias Name entered with value - AliasName220708123517
+2022-07-08 12:35:56,904  INFO [main] Company Setup User Page:77 - Virtual User switch clicked 
+2022-07-08 12:36:00,920  INFO [main] Company Setup User Page:77 - Save button clicked 
+2022-07-08 12:36:13,341  INFO [main] Company Setup User Page:77 - Action button clicked 
+2022-07-08 12:36:15,660  INFO [main] Company Setup User Page:77 - Associate Licenses button clicked 
+2022-07-08 12:36:18,565  INFO [main] Company Setup User Page:268 - Performance Review License clicked 
+2022-07-08 12:36:24,487  INFO [main] Company Setup User Page:268 - user clicked 
+2022-07-08 12:36:30,726  INFO [main] Company Setup User Page:268 - feedback clicked 
+2022-07-08 12:36:36,214  INFO [main] Company Setup User Page:268 - feedback clicked 
+2022-07-08 12:36:39,750  INFO [main] Company Setup User Page:56 - feedback Question entered with value - Add Feedback Question
+2022-07-08 12:36:45,341  INFO [main] Company Setup User Page:268 - toggle button clicked 
+2022-07-08 12:36:49,029  INFO [main] Company Setup User Page:56 - user Name  entered with value - UserAJAKBCDGBJ
+2022-07-08 12:36:52,938  INFO [main] Company Setup User Page:77 - Select CheckBox clicked 
+2022-07-08 12:36:56,839  INFO [main] Company Setup User Page:268 - Save Feedback clicked 
+2022-07-08 12:37:00,277  INFO [main] Company Setup User Page:268 - Goal clicked 
+2022-07-08 12:37:04,994  INFO [main] Company Setup User Page:268 - Add Goal clicked 
+2022-07-08 12:37:05,466  INFO [main] Company Setup User Page:56 - title description entered with value - AJAKBCDGBJ
+2022-07-08 12:37:08,143  INFO [main] Company Setup User Page:268 - start date clicked 
+2022-07-08 12:37:10,688  INFO [main] Company Setup User Page:268 - End date clicked 
+2022-07-08 12:37:11,166  INFO [main] Company Setup User Page:56 - goal description entered with value - Add Goal description 
+2022-07-08 12:37:18,119  INFO [main] Company Setup User Page:268 - Save Goal clicked 
+2022-07-08 12:37:21,122  INFO [main] Company Setup User Page:268 - note tab clicked 
+2022-07-08 12:37:23,747  INFO [main] Company Setup User Page:268 - Add new note clicked 
+2022-07-08 12:37:24,384  INFO [main] Company Setup User Page:56 - title description entered with value - AJAKBCDGBJ
+2022-07-08 12:37:24,835  INFO [main] Company Setup User Page:56 - enter Note Description entered with value - Add Note description
+2022-07-08 12:37:26,922  INFO [main] Company Setup User Page:268 - save button clicked 
+2022-07-08 12:37:34,484  INFO [main] Company Setup User Page:77 - PerformanceReviewTab clicked 
+2022-07-08 12:37:38,588  INFO [main] Company Setup User Page:77 - Add Review clicked 
+2022-07-08 12:37:39,152  INFO [main] Company Setup User Page:56 - enter title entered with value - Add Review Title
+2022-07-08 12:37:39,610  INFO [main] Company Setup User Page:56 - enter Start Date entered with value - 07/08/2022
+2022-07-08 12:37:40,503  INFO [main] Company Setup User Page:56 - enter End Date entered with value - 07/18/2022
+2022-07-08 12:37:41,137  INFO [main] Company Setup User Page:56 - enter Due Date entered with value - 07/08/2022
+2022-07-08 12:37:42,958  INFO [main] Company Setup User Page:56 - enter Review Description entered with value - Add Review description
+2022-07-08 12:37:43,623  INFO [main] Company Setup User Page:77 - Add first Reviewer clicked 
+2022-07-08 12:37:44,316  INFO [main] Company Setup User Page:77 - Add Approver button clicked 
+2022-07-08 12:37:44,750  INFO [main] Company Setup User Page:56 - enter Reviewer Due date entered with value - 07/08/2022
+2022-07-08 12:37:46,690  INFO [main] Company Setup User Page:77 - Save button clicked 
+2022-07-08 12:37:50,060  INFO [main] Company Setup User Page:268 -  Skill tab clicked 
+2022-07-08 12:37:53,453  INFO [main] Company Setup User Page:268 - Add Skill clicked 
+2022-07-08 12:37:57,403  INFO [main] Company Setup User Page:77 - Select Check Box clicked 
+2022-07-08 12:38:03,462  INFO [main] Company Setup User Page:268 - Save Skill for created user. clicked 
+2022-07-08 12:38:07,786  INFO [main] Company Setup User Page:268 - Create New skill clicked 
+2022-07-08 12:38:08,249  INFO [main] Company Setup User Page:56 - skill Description entered with value - Add Skill description
+2022-07-08 12:38:11,500  INFO [main] Company Setup User Page:268 - Post New Comment clicked 
+2022-07-08 12:38:14,841  INFO [main] Company Setup User Page:268 - Save Skill clicked 
+2022-07-08 12:44:52,184  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708123517@yopmail.com
+2022-07-08 12:44:52,576  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 12:44:52,894  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 12:44:53,585  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 12:45:01,005  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708124459.png
+2022-07-08 12:45:58,535  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708123517@yopmail.com
+2022-07-08 12:45:58,942  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 12:45:59,271  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 12:45:59,939  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 12:46:06,790  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708124606.png
+2022-07-08 12:47:19,391  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708123517@yopmail.com
+2022-07-08 12:47:19,793  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 12:47:20,121  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 12:47:20,902  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 12:47:33,296  INFO [main] Performance Review Page:77 - Close tour guide clicked 
+2022-07-08 12:47:33,905  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-08 12:47:36,277  INFO [main] Performance Review Page:77 - Performance Side menu clicked 
+2022-07-08 12:47:40,680  INFO [main] Performance Review Page:77 - Perfromance Review clicked 
+2022-07-08 12:47:41,965  INFO [main] Performance Review Page:77 - Goal clicked 
+2022-07-08 12:47:44,772  INFO [main] Performance Review Page:77 - Created Goal clicked 
+2022-07-08 12:47:50,758  INFO [main] Performance Review Page:77 - Goal saved clicked 
+2022-07-08 12:47:56,792  INFO [main] Performance Review Page:77 - Review clicked 
+2022-07-08 12:47:57,533  INFO [main] Performance Review Page:77 - Note clicked 
+2022-07-08 12:48:03,625  INFO [main] Performance Review Page:77 - Created Note clicked 
+2022-07-08 12:48:04,083  INFO [main] Performance Review Page:56 - Enter comment Note entered with value - Enter goal Note
+2022-07-08 12:48:05,142  INFO [main] Performance Review Page:77 - Post comment clicked 
+2022-07-08 12:48:11,305  INFO [main] Performance Review Page:77 - Review clicked 
+2022-07-08 12:48:12,028  INFO [main] Performance Review Page:77 - Feedback clicked 
+2022-07-08 12:48:17,860  INFO [main] Performance Review Page:77 - Feedback Title clicked 
+2022-07-08 12:48:18,330  INFO [main] Performance Review Page:56 - enter comment Note entered with value - Enter goal Comment
+2022-07-08 12:48:19,341  INFO [main] Performance Review Page:77 - Feedback Post New Comment clicked 
+2022-07-08 12:48:25,392  INFO [main] Performance Review Page:77 - Back to list clicked 
+2022-07-08 12:48:26,123  INFO [main] Performance Review Page:77 - Skill clicked 
+2022-07-08 12:48:29,832  INFO [main] Performance Review Page:77 - Skill Title clicked 
+2022-07-08 12:48:33,781  INFO [main] Performance Review Page:56 - enter comment Note entered with value - enter Skill Comment
+2022-07-08 12:48:37,155  INFO [main] Performance Review Page:77 - Skill saved clicked 
+2022-07-08 12:48:37,878  INFO [main] Performance Review Page:77 - User Performance Review clicked 
+2022-07-08 12:48:42,850  INFO [main] Performance Review Page:77 - User Review Title clicked 
+2022-07-08 12:48:44,655  INFO [main] Performance Review Page:77 - Overview clicked 
+2022-07-08 12:48:44,709  INFO [main] Performance Review Page:416 - Overview Page displayed
+2022-07-08 12:48:45,569  INFO [main] Performance Review Page:77 - Note clicked 
+2022-07-08 12:48:46,576  INFO [main] Performance Review Page:77 - Note Title clicked 
+2022-07-08 12:48:46,626  INFO [main] Performance Review Page:390 - Note Page displayed
+2022-07-08 12:48:47,557  INFO [main] Performance Review Page:77 - Note Page Closed clicked 
+2022-07-08 12:48:48,559  INFO [main] Performance Review Page:77 - Goal clicked 
+2022-07-08 12:48:49,555  INFO [main] Performance Review Page:77 - Goal Title clicked 
+2022-07-08 12:48:49,609  INFO [main] Performance Review Page:361 - Goal Page displayed
+2022-07-08 12:48:50,506  INFO [main] Performance Review Page:77 - Goal Page Closed clicked 
+2022-07-08 12:48:51,464  INFO [main] Performance Review Page:77 - skill clicked 
+2022-07-08 12:48:52,466  INFO [main] Performance Review Page:77 - skill Title clicked 
+2022-07-08 12:48:52,508  INFO [main] Performance Review Page:331 - Skill Page displayed
+2022-07-08 12:48:53,404  INFO [main] Performance Review Page:77 - Skill Page Closed clicked 
+2022-07-08 12:48:54,370  INFO [main] Performance Review Page:77 - feedback clicked 
+2022-07-08 12:48:55,386  INFO [main] Performance Review Page:77 - feedback question clicked 
+2022-07-08 12:48:55,476  INFO [main] Performance Review Page:302 - Feedback Page displayed 
+2022-07-08 12:48:56,451  INFO [main] Performance Review Page:77 - Feedback Page Closed clicked 
+2022-07-08 12:48:57,612  INFO [main] Performance Review Page:77 - User Question clicked 
+2022-07-08 12:48:58,782  INFO [main] Performance Review Page:77 - Short Term Goal Rating clicked 
+2022-07-08 12:48:59,258  INFO [main] Performance Review Page:56 - Enter Short Term Goal entered with value - Add Short Term Goal
+2022-07-08 12:49:00,245  INFO [main] Performance Review Page:77 - Long Term Goal Rating clicked 
+2022-07-08 12:49:00,692  INFO [main] Performance Review Page:56 - Enter comment Note entered with value - Add Long Term Goal
+2022-07-08 12:49:01,786  INFO [main] Performance Review Page:77 - Current Appraisal Cycle clicked 
+2022-07-08 12:49:02,409  INFO [main] Performance Review Page:56 - Enter achievements in current appraisal cycle entered with value - Add achievements in current appraisal cycle
+2022-07-08 12:49:03,406  INFO [main] Performance Review Page:77 - Weakness Rating clicked 
+2022-07-08 12:49:03,877  INFO [main] Performance Review Page:56 - Enter weakness entered with value - Add weakness
+2022-07-08 12:49:04,925  INFO [main] Performance Review Page:77 - Save Question clicked 
+2022-07-08 12:49:09,080  INFO [main] Performance Review Page:77 - Submit review clicked 
+2022-07-08 12:49:09,550  INFO [main] Performance Review Page:56 -  Review Description entered with value - Add Review Description
+2022-07-08 12:49:10,678  INFO [main] Performance Review Page:77 - Save Submit Review clicked 
+2022-07-08 12:49:14,005  INFO [main] Performance Review Page:77 - Ok button clicked 
+2022-07-08 12:52:12,313  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708123517@yopmail.com
+2022-07-08 12:52:12,714  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 12:52:13,032  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 12:52:13,718  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 12:52:13,728  INFO [main] Add Expense Limit:177 - Name generated is AJAKBCGCBD
+2022-07-08 12:52:20,591  INFO [main] CompanySetupTest-addUser:84 - Method - addUser failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addUser_20220708125219.png
+2022-07-08 12:52:56,027  INFO [main] User Login Page:56 - User Name entered with value - Sql@yopmail.com
+2022-07-08 12:52:56,442  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 12:52:56,806  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 12:52:57,564  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 12:52:57,581  INFO [main] Add Expense Limit:177 - Name generated is AJAKBCGCGJ
+2022-07-08 12:53:04,102  INFO [main] CompanySetupTest-addUser:84 - Method - addUser failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addUser_20220708125303.png
+2022-07-08 12:54:47,787  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708123517@yopmail.com
+2022-07-08 12:54:48,186  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 12:54:48,505  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 12:54:49,187  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 12:54:55,880  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708125455.png
+2022-07-08 13:00:07,534  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708123517@yopmail.com
+2022-07-08 13:00:07,935  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 13:00:08,258  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 13:00:08,937  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 13:00:08,949  INFO [main] Add Expense Limit:177 - Name generated is AJAKBDAAAK
+2022-07-08 13:00:15,792  INFO [main] Company Setup User Page:77 - Full Menu clicked 
+2022-07-08 13:00:18,165  INFO [main] Company Setup User Page:77 - Company Setup Link clicked 
+2022-07-08 13:00:41,807  INFO [main] Company Setup User Page:87 - Company Side menu not clicked
+2022-07-08 13:00:42,608  INFO [main] CompanySetupTest-addUser:84 - Method - addUser failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addUser_20220708130042.png
+2022-07-08 13:01:15,690  INFO [main] User Login Page:56 - User Name entered with value - Sql@yopmail.com
+2022-07-08 13:01:16,127  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 13:01:16,460  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 13:01:17,133  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 13:01:17,146  INFO [main] Add Expense Limit:177 - Name generated is AJAKBDABBJ
+2022-07-08 13:01:24,257  INFO [main] Company Setup User Page:77 - Full Menu clicked 
+2022-07-08 13:01:26,815  INFO [main] Company Setup User Page:77 - Company Setup Link clicked 
+2022-07-08 13:01:32,764  INFO [main] Company Setup User Page:77 - Company Side menu clicked 
+2022-07-08 13:01:40,232  INFO [main] Company Setup User Page:268 - Add User clicked 
+2022-07-08 13:01:42,599  INFO [main] Company Setup User Page:56 - First name entered with value - Automation
+2022-07-08 13:01:43,133  INFO [main] Company Setup User Page:56 - Last name entered with value - UserAJAKBDABBJ
+2022-07-08 13:01:43,694  INFO [main] Company Setup User Page:56 - Email entered with value - TestUser220708130117@yopmail.com
+2022-07-08 13:01:45,111  INFO [main] Company Setup User Page:77 - Enable Login switch clicked 
+2022-07-08 13:01:45,538  INFO [main] Company Setup User Page:56 - Password entered with value - @Password1
+2022-07-08 13:01:45,981  INFO [main] Company Setup User Page:56 - ConfirmPassword entered with value - @Password1
+2022-07-08 13:01:48,975  INFO [main] Company Setup User Page:77 - Date picker clicked 
+2022-07-08 13:01:49,363  INFO [main] Company Setup User Page:77 - Todays Date clicked 
+2022-07-08 13:01:50,214  INFO [main] Company Setup User Page:77 - Date picker clicked 
+2022-07-08 13:01:50,572  INFO [main] Company Setup User Page:77 - Date of joining clicked 
+2022-07-08 13:01:51,307  INFO [main] Company Setup User Page:77 - Date picker clicked 
+2022-07-08 13:01:51,723  INFO [main] Company Setup User Page:77 - Date of leave clicked 
+2022-07-08 13:01:56,697  INFO [main] Company Setup User Page:56 - Employee Id: entered with value - 22070813011712345
+2022-07-08 13:01:57,165  INFO [main] Company Setup User Page:56 - Alias Name entered with value - AliasName220708130117
+2022-07-08 13:01:57,766  INFO [main] Company Setup User Page:77 - Virtual User switch clicked 
+2022-07-08 13:02:02,291  INFO [main] Company Setup User Page:77 - Save button clicked 
+2022-07-08 13:02:14,683  INFO [main] Company Setup User Page:77 - Action button clicked 
+2022-07-08 13:02:16,926  INFO [main] Company Setup User Page:77 - Associate Licenses button clicked 
+2022-07-08 13:02:19,994  INFO [main] Company Setup User Page:268 - Performance Review License clicked 
+2022-07-08 13:02:26,088  INFO [main] Company Setup User Page:268 - user clicked 
+2022-07-08 13:02:32,504  INFO [main] Company Setup User Page:268 - feedback clicked 
+2022-07-08 13:02:38,000  INFO [main] Company Setup User Page:268 - feedback clicked 
+2022-07-08 13:02:41,477  INFO [main] Company Setup User Page:56 - feedback Question entered with value - Add Feedback Question
+2022-07-08 13:02:47,172  INFO [main] Company Setup User Page:268 - toggle button clicked 
+2022-07-08 13:02:50,840  INFO [main] Company Setup User Page:56 - user Name  entered with value - UserAJAKBDABBJ
+2022-07-08 13:02:54,757  INFO [main] Company Setup User Page:77 - Select CheckBox clicked 
+2022-07-08 13:02:58,703  INFO [main] Company Setup User Page:268 - Save Feedback clicked 
+2022-07-08 13:03:02,238  INFO [main] Company Setup User Page:268 - Goal clicked 
+2022-07-08 13:03:07,149  INFO [main] Company Setup User Page:268 - Add Goal clicked 
+2022-07-08 13:03:07,596  INFO [main] Company Setup User Page:56 - title description entered with value - AJAKBDABBJ
+2022-07-08 13:03:10,363  INFO [main] Company Setup User Page:268 - start date clicked 
+2022-07-08 13:03:12,940  INFO [main] Company Setup User Page:268 - End date clicked 
+2022-07-08 13:03:13,412  INFO [main] Company Setup User Page:56 - goal description entered with value - Add Goal description 
+2022-07-08 13:03:20,565  INFO [main] Company Setup User Page:268 - Save Goal clicked 
+2022-07-08 13:03:23,596  INFO [main] Company Setup User Page:268 - note tab clicked 
+2022-07-08 13:03:26,206  INFO [main] Company Setup User Page:268 - Add new note clicked 
+2022-07-08 13:03:26,877  INFO [main] Company Setup User Page:56 - title description entered with value - AJAKBDABBJ
+2022-07-08 13:03:27,396  INFO [main] Company Setup User Page:56 - enter Note Description entered with value - Add Note description
+2022-07-08 13:03:29,490  INFO [main] Company Setup User Page:268 - save button clicked 
+2022-07-08 13:03:37,011  INFO [main] Company Setup User Page:77 - PerformanceReviewTab clicked 
+2022-07-08 13:03:41,041  INFO [main] Company Setup User Page:77 - Add Review clicked 
+2022-07-08 13:03:41,961  INFO [main] Company Setup User Page:56 - enter title entered with value - Add Review Title
+2022-07-08 13:03:42,380  INFO [main] Company Setup User Page:56 - enter Start Date entered with value - 07/08/2022
+2022-07-08 13:03:43,279  INFO [main] Company Setup User Page:56 - enter End Date entered with value - 07/18/2022
+2022-07-08 13:03:43,954  INFO [main] Company Setup User Page:56 - enter Due Date entered with value - 07/08/2022
+2022-07-08 13:03:45,782  INFO [main] Company Setup User Page:56 - enter Review Description entered with value - Add Review description
+2022-07-08 13:03:46,415  INFO [main] Company Setup User Page:77 - Add first Reviewer clicked 
+2022-07-08 13:03:47,199  INFO [main] Company Setup User Page:77 - Add Approver button clicked 
+2022-07-08 13:03:47,628  INFO [main] Company Setup User Page:56 - enter Reviewer Due date entered with value - 07/08/2022
+2022-07-08 13:03:49,571  INFO [main] Company Setup User Page:77 - Save button clicked 
+2022-07-08 13:03:53,093  INFO [main] Company Setup User Page:268 -  Skill tab clicked 
+2022-07-08 13:03:56,539  INFO [main] Company Setup User Page:268 - Add Skill clicked 
+2022-07-08 13:04:00,415  INFO [main] Company Setup User Page:77 - Select Check Box clicked 
+2022-07-08 13:04:06,508  INFO [main] Company Setup User Page:268 - Save Skill for created user. clicked 
+2022-07-08 13:04:12,177  INFO [main] Company Setup User Page:268 - Create New skill clicked 
+2022-07-08 13:04:12,674  INFO [main] Company Setup User Page:56 - skill Description entered with value - Add Skill description
+2022-07-08 13:04:16,019  INFO [main] Company Setup User Page:268 - Post New Comment clicked 
+2022-07-08 13:04:19,352  INFO [main] Company Setup User Page:268 - Save Skill clicked 
+2022-07-08 14:10:57,652  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708130117@yopmail.com
+2022-07-08 14:10:58,051  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 14:10:58,371  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 14:10:59,048  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 14:11:05,984  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708141105.png
+2022-07-08 14:13:52,566  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708130117@yopmail.com
+2022-07-08 14:13:52,993  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 14:13:53,356  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 14:13:54,053  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 14:14:00,601  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708141359.png
+2022-07-08 14:15:34,848  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708130117@yopmail.com
+2022-07-08 14:15:35,259  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 14:15:35,588  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 14:15:36,235  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 14:15:43,001  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708141542.png
+2022-07-08 14:28:36,787  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708130117@yopmail.com
+2022-07-08 14:28:37,217  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 14:28:37,552  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 14:28:38,226  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 14:28:47,634  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708142844.png
+2022-07-08 14:30:31,191  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708130117@yopmail.com
+2022-07-08 14:30:31,585  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 14:30:31,915  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 14:30:32,589  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 14:30:40,125  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708143039.png
+2022-07-08 14:41:08,669  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708130117@yopmail.com
+2022-07-08 14:41:09,077  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 14:41:09,423  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 14:41:10,084  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 14:41:16,635  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708144116.png
+2022-07-08 14:41:54,229  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708130117@yopmail.com
+2022-07-08 14:41:54,635  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 14:41:54,962  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 14:41:55,628  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 14:42:02,262  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708144201.png
+2022-07-08 15:00:26,265  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708130117@yopmail.com
+2022-07-08 15:00:26,689  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 15:00:27,050  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 15:00:27,740  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 15:00:34,278  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708150033.png
+2022-07-08 15:01:47,180  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708130117@yopmail.com
+2022-07-08 15:01:47,593  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 15:01:47,981  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 15:01:48,743  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 15:01:55,731  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708150154.png
+2022-07-08 15:05:34,671  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708130117@yopmail.com
+2022-07-08 15:05:35,124  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 15:05:35,474  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 15:05:36,173  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 15:05:43,012  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708150542.png
+2022-07-08 15:12:46,503  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708130117@yopmail.com
+2022-07-08 15:12:46,926  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 15:12:47,245  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 15:12:47,929  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 15:12:59,448  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708151254.png
+2022-07-08 15:17:53,151  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708130117@yopmail.com
+2022-07-08 15:17:53,568  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 15:17:53,922  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 15:17:54,642  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 15:18:01,244  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708151800.png
+2022-07-08 15:27:02,690  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708130117@yopmail.com
+2022-07-08 15:27:03,084  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 15:27:03,415  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 15:27:04,120  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 15:27:10,776  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708152710.png
+2022-07-08 15:30:51,707  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708130117@yopmail.com
+2022-07-08 15:30:52,111  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 15:30:52,434  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 15:30:53,111  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 15:30:59,591  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708153059.png
+2022-07-08 15:34:29,760  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708130117@yopmail.com
+2022-07-08 15:34:30,153  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 15:34:30,485  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 15:34:31,167  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 15:34:44,150  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-08 15:34:46,571  INFO [main] Performance Review Page:77 - Performance Side menu clicked 
+2022-07-08 15:34:50,961  INFO [main] Performance Review Page:77 - Perfromance Review clicked 
+2022-07-08 15:34:52,354  INFO [main] Performance Review Page:77 - Goal clicked 
+2022-07-08 15:34:55,111  INFO [main] Performance Review Page:77 - Created Goal clicked 
+2022-07-08 15:35:00,984  INFO [main] Performance Review Page:77 - Goal saved clicked 
+2022-07-08 15:35:07,189  INFO [main] Performance Review Page:77 - Review clicked 
+2022-07-08 15:35:07,953  INFO [main] Performance Review Page:77 - Note clicked 
+2022-07-08 15:36:17,397  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708130117@yopmail.com
+2022-07-08 15:36:17,894  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 15:36:18,238  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 15:36:18,931  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 15:36:30,574  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708153625.png
+2022-07-08 15:40:10,841  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708130117@yopmail.com
+2022-07-08 15:40:11,237  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 15:40:11,562  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 15:40:12,239  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 15:40:20,216  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708154018.png
+2022-07-08 15:42:47,503  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708130117@yopmail.com
+2022-07-08 15:42:47,982  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 15:42:48,326  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 15:42:49,072  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 15:42:55,536  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708154255.png
+2022-07-08 15:44:33,163  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708130117@yopmail.com
+2022-07-08 15:44:33,572  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 15:44:33,911  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 15:44:34,605  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 15:44:41,407  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708154440.png
+2022-07-08 15:47:39,579  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708130117@yopmail.com
+2022-07-08 15:47:39,985  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 15:47:40,303  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 15:47:40,963  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 15:47:47,733  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708154747.png
+2022-07-08 16:15:22,609  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708130117@yopmail.com
+2022-07-08 16:15:23,008  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 16:15:23,339  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 16:15:24,002  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 16:15:35,834  INFO [main] Performance Review Page:77 - Performance Side menu clicked 
+2022-07-08 16:15:40,195  INFO [main] Performance Review Page:77 - Perfromance Review clicked 
+2022-07-08 16:15:41,722  INFO [main] Performance Review Page:77 - Goal clicked 
+2022-07-08 16:15:44,515  INFO [main] Performance Review Page:77 - Created Goal clicked 
+2022-07-08 16:15:50,449  INFO [main] Performance Review Page:77 - Goal saved clicked 
+2022-07-08 16:25:10,301  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708130117@yopmail.com
+2022-07-08 16:25:10,709  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 16:25:11,036  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 16:25:11,718  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 16:25:21,001  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-08 16:25:23,395  INFO [main] Performance Review Page:77 - Performance Side menu clicked 
+2022-07-08 16:25:27,925  INFO [main] Performance Review Page:77 - Perfromance Review clicked 
+2022-07-08 16:25:29,422  INFO [main] Performance Review Page:77 - Goal clicked 
+2022-07-08 16:26:38,851  INFO [main] User Login Page:56 - User Name entered with value - Sql@yopmail.com
+2022-07-08 16:26:39,264  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 16:26:39,618  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 16:26:40,369  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 16:26:40,453  INFO [main] Add Expense Limit:177 - Name generated is AJAKBHCHFA
+2022-07-08 16:27:07,541  INFO [main] Company Setup User Page:77 - Full Menu clicked 
+2022-07-08 16:27:09,952  INFO [main] Company Setup User Page:77 - Company Setup Link clicked 
+2022-07-08 16:27:22,638  INFO [main] Company Setup User Page:77 - Company Side menu clicked 
+2022-07-08 16:27:38,682  INFO [main] Company Setup User Page:268 - Add User clicked 
+2022-07-08 16:27:41,196  INFO [main] Company Setup User Page:56 - First name entered with value - Automation
+2022-07-08 16:27:41,723  INFO [main] Company Setup User Page:56 - Last name entered with value - UserAJAKBHCHFA
+2022-07-08 16:27:42,232  INFO [main] Company Setup User Page:56 - Email entered with value - TestUser220708162640@yopmail.com
+2022-07-08 16:27:43,598  INFO [main] Company Setup User Page:77 - Enable Login switch clicked 
+2022-07-08 16:27:44,041  INFO [main] Company Setup User Page:56 - Password entered with value - @Password1
+2022-07-08 16:27:44,507  INFO [main] Company Setup User Page:56 - ConfirmPassword entered with value - @Password1
+2022-07-08 16:27:47,479  INFO [main] Company Setup User Page:77 - Date picker clicked 
+2022-07-08 16:27:47,920  INFO [main] Company Setup User Page:77 - Todays Date clicked 
+2022-07-08 16:27:48,713  INFO [main] Company Setup User Page:77 - Date picker clicked 
+2022-07-08 16:27:49,092  INFO [main] Company Setup User Page:77 - Date of joining clicked 
+2022-07-08 16:27:49,779  INFO [main] Company Setup User Page:77 - Date picker clicked 
+2022-07-08 16:27:50,146  INFO [main] Company Setup User Page:77 - Date of leave clicked 
+2022-07-08 16:27:55,300  INFO [main] Company Setup User Page:56 - Employee Id: entered with value - 22070816264012345
+2022-07-08 16:27:55,803  INFO [main] Company Setup User Page:56 - Alias Name entered with value - AliasName220708162640
+2022-07-08 16:27:56,435  INFO [main] Company Setup User Page:77 - Virtual User switch clicked 
+2022-07-08 16:28:13,122  INFO [main] Company Setup User Page:77 - Save button clicked 
+2022-07-08 16:28:25,541  INFO [main] Company Setup User Page:77 - Action button clicked 
+2022-07-08 16:28:27,948  INFO [main] Company Setup User Page:77 - Associate Licenses button clicked 
+2022-07-08 16:28:30,828  INFO [main] Company Setup User Page:268 - Performance Review License clicked 
+2022-07-08 16:28:46,358  INFO [main] Company Setup User Page:268 - user clicked 
+2022-07-08 16:28:53,243  INFO [main] Company Setup User Page:268 - feedback clicked 
+2022-07-08 16:28:58,784  INFO [main] Company Setup User Page:268 - feedback clicked 
+2022-07-08 16:29:02,278  INFO [main] Company Setup User Page:56 - feedback Question entered with value - Add Feedback Question
+2022-07-08 16:29:07,891  INFO [main] Company Setup User Page:268 - toggle button clicked 
+2022-07-08 16:29:11,549  INFO [main] Company Setup User Page:56 - user Name  entered with value - UserAJAKBHCHFA
+2022-07-08 16:29:15,430  INFO [main] Company Setup User Page:77 - Select CheckBox clicked 
+2022-07-08 16:29:19,387  INFO [main] Company Setup User Page:268 - Save Feedback clicked 
+2022-07-08 16:29:22,882  INFO [main] Company Setup User Page:268 - Goal clicked 
+2022-07-08 16:29:39,503  INFO [main] Company Setup User Page:268 - Add Goal clicked 
+2022-07-08 16:29:39,961  INFO [main] Company Setup User Page:56 - title description entered with value - AJAKBHCHFA
+2022-07-08 16:29:42,649  INFO [main] Company Setup User Page:268 - start date clicked 
+2022-07-08 16:29:45,238  INFO [main] Company Setup User Page:268 - End date clicked 
+2022-07-08 16:29:45,709  INFO [main] Company Setup User Page:56 - goal description entered with value - Add Goal description 
+2022-07-08 16:29:58,405  INFO [main] Company Setup User Page:268 - Save Goal clicked 
+2022-07-08 16:30:01,412  INFO [main] Company Setup User Page:268 - note tab clicked 
+2022-07-08 16:30:04,059  INFO [main] Company Setup User Page:268 - Add new note clicked 
+2022-07-08 16:30:04,690  INFO [main] Company Setup User Page:56 - title description entered with value - AJAKBHCHFA
+2022-07-08 16:30:05,168  INFO [main] Company Setup User Page:56 - enter Note Description entered with value - Add Note description
+2022-07-08 16:30:07,268  INFO [main] Company Setup User Page:268 - save button clicked 
+2022-07-08 16:30:14,923  INFO [main] Company Setup User Page:77 - PerformanceReviewTab clicked 
+2022-07-08 16:30:18,957  INFO [main] Company Setup User Page:77 - Add Review clicked 
+2022-07-08 16:30:19,855  INFO [main] Company Setup User Page:56 - enter title entered with value - Add Review Title
+2022-07-08 16:30:20,299  INFO [main] Company Setup User Page:56 - enter Start Date entered with value - 07/08/2022
+2022-07-08 16:30:21,147  INFO [main] Company Setup User Page:56 - enter End Date entered with value - 07/18/2022
+2022-07-08 16:30:21,778  INFO [main] Company Setup User Page:56 - enter Due Date entered with value - 07/08/2022
+2022-07-08 16:30:23,626  INFO [main] Company Setup User Page:56 - enter Review Description entered with value - Add Review description
+2022-07-08 16:30:24,278  INFO [main] Company Setup User Page:77 - Add first Reviewer clicked 
+2022-07-08 16:30:24,957  INFO [main] Company Setup User Page:77 - Add Approver button clicked 
+2022-07-08 16:30:25,433  INFO [main] Company Setup User Page:56 - enter Reviewer Due date entered with value - 07/08/2022
+2022-07-08 16:30:27,419  INFO [main] Company Setup User Page:77 - Save button clicked 
+2022-07-08 16:30:30,881  INFO [main] Company Setup User Page:268 -  Skill tab clicked 
+2022-07-08 16:30:34,261  INFO [main] Company Setup User Page:268 - Add Skill clicked 
+2022-07-08 16:30:38,154  INFO [main] Company Setup User Page:77 - Select Check Box clicked 
+2022-07-08 16:30:44,218  INFO [main] Company Setup User Page:268 - Save Skill for created user. clicked 
+2022-07-08 16:30:48,811  INFO [main] Company Setup User Page:268 - Create New skill clicked 
+2022-07-08 16:30:49,248  INFO [main] Company Setup User Page:56 - skill Description entered with value - Add Skill description
+2022-07-08 16:30:52,554  INFO [main] Company Setup User Page:268 - Post New Comment clicked 
+2022-07-08 16:30:55,848  INFO [main] Company Setup User Page:268 - Save Skill clicked 
+2022-07-08 16:32:31,639  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708162640@yopmail.com
+2022-07-08 16:32:32,139  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 16:32:32,475  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 16:32:33,180  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 16:32:44,826  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708163239.png
+2022-07-08 17:12:43,926  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708162640@yopmail.com
+2022-07-08 17:12:44,400  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 17:12:44,735  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 17:12:45,407  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 17:13:15,548  INFO [main] Performance Review Page:87 - Performance Side menu not clicked
+2022-07-08 17:13:16,158  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708171315.png
+2022-07-08 17:15:38,723  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708162640@yopmail.com
+2022-07-08 17:15:39,222  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 17:15:39,564  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 17:15:40,244  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 17:15:47,747  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-08 17:15:51,154  INFO [main] Performance Review Page:80 - Performance Side menu not clicked
+2022-07-08 17:15:51,762  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708171551.png
+2022-07-08 17:16:56,004  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708162640@yopmail.com
+2022-07-08 17:16:56,425  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 17:16:56,773  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 17:16:57,447  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 17:17:04,775  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-08 17:17:08,255  INFO [main] Performance Review Page:80 - Performance Side menu not clicked
+2022-07-08 17:17:08,899  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708171708.png
+2022-07-08 17:19:40,142  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708162640@yopmail.com
+2022-07-08 17:19:40,556  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 17:19:40,885  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 17:19:41,567  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 17:19:48,686  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-08 17:19:52,173  INFO [main] Performance Review Page:80 - Performance Side menu not clicked
+2022-07-08 17:19:52,787  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220708171952.png
+2022-07-08 17:22:38,164  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708162640@yopmail.com
+2022-07-08 17:22:38,552  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 17:22:38,873  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 17:22:39,529  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 17:22:48,977  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-08 17:22:51,376  INFO [main] Performance Review Page:77 - Performance Side menu clicked 
+2022-07-08 17:22:58,504  INFO [main] Performance Review Page:77 - Perfromance Review clicked 
+2022-07-08 17:23:00,151  INFO [main] Performance Review Page:77 - Goal clicked 
+2022-07-08 17:23:04,755  INFO [main] Performance Review Page:77 - Created Goal clicked 
+2022-07-08 17:23:11,378  INFO [main] Performance Review Page:77 - Goal saved clicked 
+2022-07-08 17:23:17,497  INFO [main] Performance Review Page:77 - Review clicked 
+2022-07-08 17:23:18,236  INFO [main] Performance Review Page:77 - Note clicked 
+2022-07-08 17:23:24,333  INFO [main] Performance Review Page:77 - Created Note clicked 
+2022-07-08 17:23:24,839  INFO [main] Performance Review Page:56 - Enter comment Note entered with value - Enter goal Note
+2022-07-08 17:23:25,906  INFO [main] Performance Review Page:77 - Post comment clicked 
+2022-07-08 17:23:31,907  INFO [main] Performance Review Page:77 - Review clicked 
+2022-07-08 17:23:32,618  INFO [main] Performance Review Page:77 - Feedback clicked 
+2022-07-08 17:23:38,766  INFO [main] Performance Review Page:77 - Feedback Title clicked 
+2022-07-08 17:23:39,275  INFO [main] Performance Review Page:56 - enter comment Note entered with value - Enter goal Comment
+2022-07-08 17:23:40,228  INFO [main] Performance Review Page:77 - Feedback Post New Comment clicked 
+2022-07-08 17:23:46,325  INFO [main] Performance Review Page:77 - Back to list clicked 
+2022-07-08 17:23:47,071  INFO [main] Performance Review Page:77 - Skill clicked 
+2022-07-08 17:23:50,814  INFO [main] Performance Review Page:77 - Skill Title clicked 
+2022-07-08 17:23:54,790  INFO [main] Performance Review Page:56 - enter comment Note entered with value - enter Skill Comment
+2022-07-08 17:23:57,980  INFO [main] Performance Review Page:77 - Skill saved clicked 
+2022-07-08 17:23:58,695  INFO [main] Performance Review Page:77 - User Performance Review clicked 
+2022-07-08 17:24:06,573  INFO [main] Performance Review Page:77 - User Review Title clicked 
+2022-07-08 17:24:08,332  INFO [main] Performance Review Page:77 - Overview clicked 
+2022-07-08 17:24:08,549  INFO [main] Performance Review Page:428 - Overview Page displayed
+2022-07-08 17:24:09,423  INFO [main] Performance Review Page:77 - Note clicked 
+2022-07-08 17:24:10,318  INFO [main] Performance Review Page:77 - Note Title clicked 
+2022-07-08 17:24:10,364  INFO [main] Performance Review Page:402 - Note Page displayed
+2022-07-08 17:24:11,308  INFO [main] Performance Review Page:77 - Note Page Closed clicked 
+2022-07-08 17:24:12,255  INFO [main] Performance Review Page:77 - Goal clicked 
+2022-07-08 17:24:13,194  INFO [main] Performance Review Page:77 - Goal Title clicked 
+2022-07-08 17:24:13,238  INFO [main] Performance Review Page:373 - Goal Page displayed
+2022-07-08 17:24:14,169  INFO [main] Performance Review Page:77 - Goal Page Closed clicked 
+2022-07-08 17:24:15,099  INFO [main] Performance Review Page:77 - skill clicked 
+2022-07-08 17:24:16,031  INFO [main] Performance Review Page:77 - skill Title clicked 
+2022-07-08 17:24:16,077  INFO [main] Performance Review Page:343 - Skill Page displayed
+2022-07-08 17:24:16,990  INFO [main] Performance Review Page:77 - Skill Page Closed clicked 
+2022-07-08 17:24:17,913  INFO [main] Performance Review Page:77 - feedback clicked 
+2022-07-08 17:24:18,883  INFO [main] Performance Review Page:77 - feedback question clicked 
+2022-07-08 17:24:18,993  INFO [main] Performance Review Page:314 - Feedback Page displayed 
+2022-07-08 17:24:20,003  INFO [main] Performance Review Page:77 - Feedback Page Closed clicked 
+2022-07-08 17:24:21,028  INFO [main] Performance Review Page:77 - User Question clicked 
+2022-07-08 17:24:22,053  INFO [main] Performance Review Page:77 - Short Term Goal Rating clicked 
+2022-07-08 17:24:22,535  INFO [main] Performance Review Page:56 - Enter Short Term Goal entered with value - Add Short Term Goal
+2022-07-08 17:24:23,538  INFO [main] Performance Review Page:77 - Long Term Goal Rating clicked 
+2022-07-08 17:24:24,046  INFO [main] Performance Review Page:56 - Enter comment Note entered with value - Add Long Term Goal
+2022-07-08 17:24:25,019  INFO [main] Performance Review Page:77 - Current Appraisal Cycle clicked 
+2022-07-08 17:24:25,582  INFO [main] Performance Review Page:56 - Enter achievements in current appraisal cycle entered with value - Add achievements in current appraisal cycle
+2022-07-08 17:24:26,551  INFO [main] Performance Review Page:77 - Weakness Rating clicked 
+2022-07-08 17:24:26,983  INFO [main] Performance Review Page:56 - Enter weakness entered with value - Add weakness
+2022-07-08 17:24:28,055  INFO [main] Performance Review Page:77 - Save Question clicked 
+2022-07-08 17:24:32,236  INFO [main] Performance Review Page:77 - Submit review clicked 
+2022-07-08 17:24:32,787  INFO [main] Performance Review Page:56 -  Review Description entered with value - Add Review Description
+2022-07-08 17:24:33,947  INFO [main] Performance Review Page:77 - Save Submit Review clicked 
+2022-07-08 17:24:37,303  INFO [main] Performance Review Page:77 - Ok button clicked 
+2022-07-08 17:25:33,998  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708162640@yopmail.com
+2022-07-08 17:25:34,434  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-08 17:25:34,785  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-08 17:25:35,521  INFO [main] User Login Page:77 - Login clicked 
+2022-07-08 17:25:55,731  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-08 17:25:58,145  INFO [main] Performance Review Page:77 - Performance Side menu clicked 
+2022-07-11 09:55:33,106  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708162640@yopmail.com
+2022-07-11 09:55:33,620  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-11 09:55:33,985  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-11 09:55:34,666  INFO [main] User Login Page:77 - Login clicked 
+2022-07-11 09:55:34,716  INFO [main] Add Expense Limit:177 - Name generated is AJBBALGGDF
+2022-07-11 09:55:50,476  INFO [main] Company Setup User Page:77 - Full Menu clicked 
+2022-07-11 09:55:50,867  INFO [main] Company Setup User Page:77 - Company Setup Link clicked 
+2022-07-11 09:56:47,395  INFO [main] User Login Page:56 - User Name entered with value - Sql@yopmail.com
+2022-07-11 09:56:47,802  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-11 09:56:48,135  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-11 09:56:48,814  INFO [main] User Login Page:77 - Login clicked 
+2022-07-11 09:56:48,824  INFO [main] Add Expense Limit:177 - Name generated is AJBBALGHFK
+2022-07-11 09:56:57,121  INFO [main] Company Setup User Page:77 - Full Menu clicked 
+2022-07-11 09:56:57,454  INFO [main] Company Setup User Page:77 - Company Setup Link clicked 
+2022-07-11 09:57:20,245  INFO [main] Company Setup User Page:87 - Company Side menu not clicked
+2022-07-11 09:57:20,834  INFO [main] CompanySetupTest-addUser:84 - Method - addUser failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addUser_20220711095720.png
+2022-07-11 09:59:09,336  INFO [main] User Login Page:56 - User Name entered with value - Sql@yopmail.com
+2022-07-11 09:59:09,748  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-11 09:59:10,074  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-11 09:59:10,765  INFO [main] User Login Page:77 - Login clicked 
+2022-07-11 09:59:10,775  INFO [main] Add Expense Limit:177 - Name generated is AJBBALGLBA
+2022-07-11 09:59:17,879  INFO [main] Company Setup User Page:77 - Full Menu clicked 
+2022-07-11 09:59:18,249  INFO [main] Company Setup User Page:77 - Company Setup Link clicked 
+2022-07-11 09:59:43,610  INFO [main] Company Setup User Page:87 - Company Side menu not clicked
+2022-07-11 09:59:44,192  INFO [main] CompanySetupTest-addUser:84 - Method - addUser failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addUser_20220711095943.png
+2022-07-11 10:00:33,300  INFO [main] User Login Page:56 - User Name entered with value - Sql@yopmail.com
+2022-07-11 10:00:33,702  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-11 10:00:34,037  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-11 10:00:34,708  INFO [main] User Login Page:77 - Login clicked 
+2022-07-11 10:00:34,721  INFO [main] Add Expense Limit:177 - Name generated is AJBBBAAADF
+2022-07-11 10:00:41,888  INFO [main] Company Setup User Page:77 - Full Menu clicked 
+2022-07-11 10:00:44,468  INFO [main] Company Setup User Page:77 - Company Setup Link clicked 
+2022-07-11 10:00:52,651  INFO [main] Company Setup User Page:77 - Company Side menu clicked 
+2022-07-11 10:01:01,170  INFO [main] Company Setup User Page:268 - Add User clicked 
+2022-07-11 10:01:03,591  INFO [main] Company Setup User Page:56 - First name entered with value - Automation
+2022-07-11 10:01:04,046  INFO [main] Company Setup User Page:56 - Last name entered with value - UserAJBBBAAADF
+2022-07-11 10:01:04,556  INFO [main] Company Setup User Page:56 - Email entered with value - TestUser220711100034@yopmail.com
+2022-07-11 10:01:05,981  INFO [main] Company Setup User Page:77 - Enable Login switch clicked 
+2022-07-11 10:01:06,424  INFO [main] Company Setup User Page:56 - Password entered with value - @Password1
+2022-07-11 10:01:06,842  INFO [main] Company Setup User Page:56 - ConfirmPassword entered with value - @Password1
+2022-07-11 10:02:24,442  INFO [main] User Login Page:56 - User Name entered with value - Sql@yopmail.com
+2022-07-11 10:02:24,868  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-11 10:02:25,202  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-11 10:02:25,879  INFO [main] User Login Page:77 - Login clicked 
+2022-07-11 10:02:33,054  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-11 10:02:35,432  INFO [main] Performance Review Page:77 - Performance Side menu clicked 
+2022-07-11 10:02:44,712  INFO [main] Performance Review Page:77 - Perfromance Review clicked 
+2022-07-11 10:02:46,113  INFO [main] Performance Review Page:77 - Goal clicked 
+2022-07-11 10:03:06,343  INFO [main] Performance Review Page:87 - Created Goal not clicked
+2022-07-11 10:03:06,966  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220711100306.png
+2022-07-11 10:03:32,715  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708162640@yopmail.com
+2022-07-11 10:03:33,125  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-11 10:03:33,457  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-11 10:03:34,151  INFO [main] User Login Page:77 - Login clicked 
+2022-07-11 10:03:41,465  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-11 10:03:43,797  INFO [main] Performance Review Page:77 - Performance Side menu clicked 
+2022-07-11 10:03:48,368  INFO [main] Performance Review Page:77 - Perfromance Review clicked 
+2022-07-11 10:03:49,684  INFO [main] Performance Review Page:77 - Goal clicked 
+2022-07-11 10:03:54,126  INFO [main] Performance Review Page:77 - Created Goal clicked 
+2022-07-11 10:04:00,426  INFO [main] Performance Review Page:77 - Goal saved clicked 
+2022-07-11 10:04:06,530  INFO [main] Performance Review Page:77 - Review clicked 
+2022-07-11 10:04:07,270  INFO [main] Performance Review Page:77 - Note clicked 
+2022-07-11 10:04:13,343  INFO [main] Performance Review Page:77 - Created Note clicked 
+2022-07-11 10:04:13,866  INFO [main] Performance Review Page:56 - Enter comment Note entered with value - Enter goal Note
+2022-07-11 10:04:14,941  INFO [main] Performance Review Page:77 - Post comment clicked 
+2022-07-20 10:23:56,976  INFO [main] Add Expense Limit:177 - Name generated is AJCABACDGH
+2022-07-20 10:23:57,676  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708162640@yopmail.com
+2022-07-20 10:23:58,085  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 10:23:58,433  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 10:23:59,167  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 10:24:16,115  INFO [main] User Login Page:77 - Full Menu clicked 
+2022-07-20 10:24:18,527  INFO [main] User Login Page:77 - Company Setup Link clicked 
+2022-07-20 10:24:42,883  INFO [main] User Login Page:87 - Company Side menu not clicked
+2022-07-20 10:24:43,542  INFO [main] CompanySetupTest-ValidationCheck:84 - Method - ValidationCheck failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\ValidationCheck_20220720102443.png
+2022-07-20 10:24:56,072  INFO [main] User Login Page:268 - Logout menu clicked 
+2022-07-20 10:25:01,830  INFO [main] User Login Page:268 - Logout clicked 
+2022-07-20 10:25:02,366  INFO [main] User Login Page:56 - User Name entered with value - TestUser220708162640@yopmail.com
+2022-07-20 10:25:02,804  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 10:25:03,150  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 10:25:03,479  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 10:25:04,127  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 10:25:13,724  INFO [main] Company Setup User Page:77 - Full Menu clicked 
+2022-07-20 10:25:16,101  INFO [main] Company Setup User Page:77 - Company Setup Link clicked 
+2022-07-20 10:25:40,577  INFO [main] Company Setup User Page:87 - Company Side menu not clicked
+2022-07-20 10:25:41,090  INFO [main] CompanySetupTest-addUser:84 - Method - addUser failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addUser_20220720102540.png
+2022-07-20 10:26:16,848  INFO [main] Add Expense Limit:177 - Name generated is AJCABACHBH
+2022-07-20 10:26:17,401  INFO [main] User Login Page:56 - User Name entered with value - Sql@yopmail.com
+2022-07-20 10:26:17,797  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 10:26:18,132  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 10:26:18,806  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 10:26:25,772  INFO [main] User Login Page:77 - Full Menu clicked 
+2022-07-20 10:26:28,497  INFO [main] User Login Page:77 - Company Setup Link clicked 
+2022-07-20 10:26:35,838  INFO [main] User Login Page:77 - Company Side menu clicked 
+2022-07-20 10:26:44,398  INFO [main] User Login Page:268 - Add User clicked 
+2022-07-20 10:26:45,175  INFO [main] User Login Page:77 - Save button clicked 
+2022-07-20 10:27:14,584  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for User Type field
+2022-07-20 10:27:14,680  INFO [main] User Login Page:264 - Error message for "User Type" field is displayed as expected
+2022-07-20 10:27:36,072  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for First Name field
+2022-07-20 10:27:36,144  INFO [main] User Login Page:264 - Error message for "First Name" field is displayed as expected
+2022-07-20 10:27:57,371  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for Last Name field
+2022-07-20 10:27:57,445  INFO [main] User Login Page:264 - Error message for "Last Name" field is displayed as expected
+2022-07-20 10:28:18,669  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for Email field
+2022-07-20 10:28:18,732  INFO [main] User Login Page:264 - Error message for "Email" field is displayed as expected
+2022-07-20 10:28:40,192  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for Password field
+2022-07-20 10:28:40,263  INFO [main] User Login Page:264 - Error message for "Password" field is displayed as expected
+2022-07-20 10:29:01,348  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for Confirm Password field
+2022-07-20 10:29:01,424  INFO [main] User Login Page:264 - Error message for "Confirm Password" field is displayed as expected
+2022-07-20 10:29:13,941  INFO [main] User Login Page:268 - Logout menu clicked 
+2022-07-20 10:29:17,188  INFO [main] User Login Page:268 - Logout clicked 
+2022-07-20 10:29:21,024  INFO [main] User Login Page:56 - User Name entered with value - Sql@yopmail.com
+2022-07-20 10:29:21,449  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 10:29:21,817  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 10:29:22,187  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 10:29:22,864  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 10:29:30,267  INFO [main] Company Setup User Page:77 - Full Menu clicked 
+2022-07-20 10:29:32,691  INFO [main] Company Setup User Page:77 - Company Setup Link clicked 
+2022-07-20 10:29:39,665  INFO [main] Company Setup User Page:77 - Company Side menu clicked 
+2022-07-20 10:29:47,356  INFO [main] Company Setup User Page:268 - Add User clicked 
+2022-07-20 10:29:50,033  INFO [main] Company Setup User Page:56 - First name entered with value - Automation
+2022-07-20 10:29:50,522  INFO [main] Company Setup User Page:56 - Last name entered with value - UserAJCABACHBH
+2022-07-20 10:29:51,055  INFO [main] Company Setup User Page:56 - Email entered with value - TestUser220720102616@yopmail.com
+2022-07-20 10:29:52,466  INFO [main] Company Setup User Page:77 - Enable Login switch clicked 
+2022-07-20 10:29:52,893  INFO [main] Company Setup User Page:56 - Password entered with value - @Password1
+2022-07-20 10:29:53,333  INFO [main] Company Setup User Page:56 - ConfirmPassword entered with value - @Password1
+2022-07-20 10:29:56,171  INFO [main] Company Setup User Page:77 - Date picker clicked 
+2022-07-20 10:29:56,579  INFO [main] Company Setup User Page:77 - Todays Date clicked 
+2022-07-20 10:29:57,347  INFO [main] Company Setup User Page:77 - Date picker clicked 
+2022-07-20 10:29:57,731  INFO [main] Company Setup User Page:77 - Date of joining clicked 
+2022-07-20 10:29:58,411  INFO [main] Company Setup User Page:77 - Date picker clicked 
+2022-07-20 10:29:58,830  INFO [main] Company Setup User Page:77 - Date of leave clicked 
+2022-07-20 10:30:03,910  INFO [main] Company Setup User Page:56 - Employee Id: entered with value - 22072010261612345
+2022-07-20 10:30:04,411  INFO [main] Company Setup User Page:56 - Alias Name entered with value - AliasName220720102616
+2022-07-20 10:30:05,056  INFO [main] Company Setup User Page:77 - Virtual User switch clicked 
+2022-07-20 10:30:09,762  INFO [main] Company Setup User Page:77 - Save button clicked 
+2022-07-20 10:30:22,198  INFO [main] Company Setup User Page:77 - Action button clicked 
+2022-07-20 10:30:24,625  INFO [main] Company Setup User Page:77 - Associate Licenses button clicked 
+2022-07-20 10:30:27,568  INFO [main] Company Setup User Page:268 - Performance Review License clicked 
+2022-07-20 10:30:33,490  INFO [main] Company Setup User Page:268 - user clicked 
+2022-07-20 10:30:40,573  INFO [main] Company Setup User Page:268 - feedback clicked 
+2022-07-20 10:30:45,999  INFO [main] Company Setup User Page:268 - feedback clicked 
+2022-07-20 10:30:49,572  INFO [main] Company Setup User Page:56 - feedback Question entered with value - Add Feedback Question
+2022-07-20 10:30:55,147  INFO [main] Company Setup User Page:268 - toggle button clicked 
+2022-07-20 10:30:58,757  INFO [main] Company Setup User Page:56 - user Name  entered with value - UserAJCABACHBH
+2022-07-20 10:31:02,660  INFO [main] Company Setup User Page:77 - Select CheckBox clicked 
+2022-07-20 10:31:06,797  INFO [main] Company Setup User Page:268 - Save Feedback clicked 
+2022-07-20 10:31:10,828  INFO [main] Company Setup User Page:268 - Goal clicked 
+2022-07-20 10:31:16,640  INFO [main] Company Setup User Page:268 - Add Goal clicked 
+2022-07-20 10:31:17,108  INFO [main] Company Setup User Page:56 - title description entered with value - AJCABACHBH
+2022-07-20 10:31:19,838  INFO [main] Company Setup User Page:268 - start date clicked 
+2022-07-20 10:31:22,437  INFO [main] Company Setup User Page:268 - End date clicked 
+2022-07-20 10:31:22,877  INFO [main] Company Setup User Page:56 - goal description entered with value - Add Goal description 
+2022-07-20 10:31:30,501  INFO [main] Company Setup User Page:268 - Save Goal clicked 
+2022-07-20 10:31:33,577  INFO [main] Company Setup User Page:268 - note tab clicked 
+2022-07-20 10:31:36,229  INFO [main] Company Setup User Page:268 - Add new note clicked 
+2022-07-20 10:31:36,972  INFO [main] Company Setup User Page:56 - title description entered with value - AJCABACHBH
+2022-07-20 10:31:37,446  INFO [main] Company Setup User Page:56 - enter Note Description entered with value - Add Note description
+2022-07-20 10:31:39,542  INFO [main] Company Setup User Page:268 - save button clicked 
+2022-07-20 10:31:47,221  INFO [main] Company Setup User Page:77 - PerformanceReviewTab clicked 
+2022-07-20 10:31:51,387  INFO [main] Company Setup User Page:77 - Add Review clicked 
+2022-07-20 10:31:52,028  INFO [main] Company Setup User Page:56 - enter title entered with value - Add Review Title
+2022-07-20 10:31:52,456  INFO [main] Company Setup User Page:56 - enter Start Date entered with value - 07/20/2022
+2022-07-20 10:31:53,300  INFO [main] Company Setup User Page:56 - enter End Date entered with value - 07/30/2022
+2022-07-20 10:31:53,940  INFO [main] Company Setup User Page:56 - enter Due Date entered with value - 07/20/2022
+2022-07-20 10:31:55,750  INFO [main] Company Setup User Page:56 - enter Review Description entered with value - Add Review description
+2022-07-20 10:31:56,383  INFO [main] Company Setup User Page:77 - Add first Reviewer clicked 
+2022-07-20 10:31:57,089  INFO [main] Company Setup User Page:77 - Add Approver button clicked 
+2022-07-20 10:31:57,532  INFO [main] Company Setup User Page:56 - enter Reviewer Due date entered with value - 07/20/2022
+2022-07-20 10:31:59,641  INFO [main] Company Setup User Page:77 - Save button clicked 
+2022-07-20 10:32:03,579  INFO [main] Company Setup User Page:268 -  Skill tab clicked 
+2022-07-20 10:32:06,185  INFO [main] Company Setup User Page:268 - Add Skill clicked 
+2022-07-20 10:32:10,082  INFO [main] Company Setup User Page:77 - Select Check Box clicked 
+2022-07-20 10:32:16,150  INFO [main] Company Setup User Page:268 - Save Skill for created user. clicked 
+2022-07-20 10:32:19,293  INFO [main] Company Setup User Page:268 - Create New skill clicked 
+2022-07-20 10:32:21,700  INFO [main] Company Setup User Page:56 - skill Description entered with value - Add Skill description
+2022-07-20 10:32:25,057  INFO [main] Company Setup User Page:268 - Post New Comment clicked 
+2022-07-20 10:32:28,382  INFO [main] Company Setup User Page:268 - Save Skill clicked 
+2022-07-20 10:34:34,830  INFO [main] User Login Page:56 - User Name entered with value - TestUser220720102616@yopmail.com
+2022-07-20 10:34:35,247  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 10:34:35,575  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 10:34:36,289  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 10:34:44,026  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-20 10:34:47,366  INFO [main] Performance Review Page:80 - Performance Side menu not clicked
+2022-07-20 10:34:48,108  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220720103447.png
+2022-07-20 10:38:33,801  INFO [main] User Login Page:56 - User Name entered with value - TestUser220720102616@yopmail.com
+2022-07-20 10:38:34,232  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 10:38:34,562  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 10:38:35,244  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 10:38:42,796  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-20 10:38:46,161  INFO [main] Performance Review Page:80 - Performance Side menu not clicked
+2022-07-20 10:38:46,806  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220720103846.png
+2022-07-20 10:41:01,608  INFO [main] User Login Page:56 - User Name entered with value - TestUser220720102616@yopmail.com
+2022-07-20 10:41:02,043  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 10:41:02,382  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 10:41:03,078  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 10:41:37,337  INFO [main] Performance Review Page:87 - Performance Side menu not clicked
+2022-07-20 10:41:37,889  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220720104137.png
+2022-07-20 10:42:16,377  INFO [main] User Login Page:56 - User Name entered with value - TestUser220720102616@yopmail.com
+2022-07-20 10:42:16,839  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 10:42:17,209  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 10:42:17,939  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 10:42:36,361  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-20 10:42:38,756  INFO [main] Performance Review Page:77 - Performance Side menu clicked 
+2022-07-20 10:42:43,588  INFO [main] Performance Review Page:77 - Perfromance Review clicked 
+2022-07-20 10:42:44,879  INFO [main] Performance Review Page:77 - Goal clicked 
+2022-07-20 10:42:49,610  INFO [main] Performance Review Page:77 - Created Goal clicked 
+2022-07-20 10:42:56,517  INFO [main] Performance Review Page:77 - Goal saved clicked 
+2022-07-20 10:43:03,305  INFO [main] Performance Review Page:77 - Review clicked 
+2022-07-20 10:43:04,134  INFO [main] Performance Review Page:77 - Note clicked 
+2022-07-20 10:43:10,455  INFO [main] Performance Review Page:77 - Created Note clicked 
+2022-07-20 10:43:10,919  INFO [main] Performance Review Page:56 - Enter comment Note entered with value - Enter goal Note
+2022-07-20 10:43:12,002  INFO [main] Performance Review Page:77 - Post comment clicked 
+2022-07-20 10:43:18,337  INFO [main] Performance Review Page:77 - Review clicked 
+2022-07-20 10:43:19,098  INFO [main] Performance Review Page:77 - Feedback clicked 
+2022-07-20 10:43:26,694  INFO [main] Performance Review Page:77 - Feedback Title clicked 
+2022-07-20 10:43:27,165  INFO [main] Performance Review Page:56 - enter comment Note entered with value - Enter goal Comment
+2022-07-20 10:43:28,507  INFO [main] Performance Review Page:77 - Feedback Post New Comment clicked 
+2022-07-20 10:43:34,925  INFO [main] Performance Review Page:77 - Back to list clicked 
+2022-07-20 10:43:35,683  INFO [main] Performance Review Page:77 - Skill clicked 
+2022-07-20 10:43:39,394  INFO [main] Performance Review Page:77 - Skill Title clicked 
+2022-07-20 10:43:43,391  INFO [main] Performance Review Page:56 - enter comment Note entered with value - enter Skill Comment
+2022-07-20 10:43:46,990  INFO [main] Performance Review Page:77 - Skill saved clicked 
+2022-07-20 10:43:47,736  INFO [main] Performance Review Page:77 - User Performance Review clicked 
+2022-07-20 10:43:53,626  INFO [main] Performance Review Page:77 - User Review Title clicked 
+2022-07-20 10:43:55,412  INFO [main] Performance Review Page:77 - Overview clicked 
+2022-07-20 10:43:55,451  INFO [main] Performance Review Page:426 - Overview Page displayed
+2022-07-20 10:43:56,335  INFO [main] Performance Review Page:77 - Note clicked 
+2022-07-20 10:43:57,247  INFO [main] Performance Review Page:77 - Note Title clicked 
+2022-07-20 10:43:57,298  INFO [main] Performance Review Page:400 - Note Page displayed
+2022-07-20 10:43:58,226  INFO [main] Performance Review Page:77 - Note Page Closed clicked 
+2022-07-20 10:43:59,212  INFO [main] Performance Review Page:77 - Goal clicked 
+2022-07-20 10:44:00,265  INFO [main] Performance Review Page:77 - Goal Title clicked 
+2022-07-20 10:44:00,313  INFO [main] Performance Review Page:371 - Goal Page displayed
+2022-07-20 10:44:01,283  INFO [main] Performance Review Page:77 - Goal Page Closed clicked 
+2022-07-20 10:44:02,212  INFO [main] Performance Review Page:77 - skill clicked 
+2022-07-20 10:44:03,143  INFO [main] Performance Review Page:77 - skill Title clicked 
+2022-07-20 10:44:03,199  INFO [main] Performance Review Page:341 - Skill Page displayed
+2022-07-20 10:44:04,101  INFO [main] Performance Review Page:77 - Skill Page Closed clicked 
+2022-07-20 10:44:05,056  INFO [main] Performance Review Page:77 - feedback clicked 
+2022-07-20 10:44:06,023  INFO [main] Performance Review Page:77 - feedback question clicked 
+2022-07-20 10:44:06,081  INFO [main] Performance Review Page:312 - Feedback Page displayed 
+2022-07-20 10:44:07,067  INFO [main] Performance Review Page:77 - Feedback Page Closed clicked 
+2022-07-20 10:44:08,145  INFO [main] Performance Review Page:77 - User Question clicked 
+2022-07-20 10:44:09,184  INFO [main] Performance Review Page:77 - Short Term Goal Rating clicked 
+2022-07-20 10:44:09,694  INFO [main] Performance Review Page:56 - Enter Short Term Goal entered with value - Add Short Term Goal
+2022-07-20 10:44:10,678  INFO [main] Performance Review Page:77 - Long Term Goal Rating clicked 
+2022-07-20 10:44:11,199  INFO [main] Performance Review Page:56 - Enter comment Note entered with value - Add Long Term Goal
+2022-07-20 10:44:12,167  INFO [main] Performance Review Page:77 - Current Appraisal Cycle clicked 
+2022-07-20 10:44:12,754  INFO [main] Performance Review Page:56 - Enter achievements in current appraisal cycle entered with value - Add achievements in current appraisal cycle
+2022-07-20 10:44:13,764  INFO [main] Performance Review Page:77 - Weakness Rating clicked 
+2022-07-20 10:44:14,252  INFO [main] Performance Review Page:56 - Enter weakness entered with value - Add weakness
+2022-07-20 10:44:15,339  INFO [main] Performance Review Page:77 - Save Question clicked 
+2022-07-20 10:44:19,465  INFO [main] Performance Review Page:77 - Submit review clicked 
+2022-07-20 10:44:20,013  INFO [main] Performance Review Page:56 -  Review Description entered with value - Add Review Description
+2022-07-20 10:44:21,206  INFO [main] Performance Review Page:77 - Save Submit Review clicked 
+2022-07-20 10:44:25,429  INFO [main] Performance Review Page:77 - Ok button clicked 
+2022-07-20 10:45:09,674  INFO [main] Add Expense Limit:177 - Name generated is AJCABAFGAL
+2022-07-20 10:45:10,282  INFO [main] User Login Page:56 - User Name entered with value - TestUser220720102616@yopmail.com
+2022-07-20 10:45:10,701  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 10:45:11,028  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 10:45:11,719  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 10:45:59,470  INFO [main] Add Expense Limit:177 - Name generated is AJCABAFGGL
+2022-07-20 10:46:00,062  INFO [main] User Login Page:56 - User Name entered with value - Sql@yopmail.com
+2022-07-20 10:46:00,485  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 10:46:00,822  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 10:46:01,984  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 10:46:08,762  INFO [main] User Login Page:77 - Full Menu clicked 
+2022-07-20 10:46:11,267  INFO [main] User Login Page:77 - Company Setup Link clicked 
+2022-07-20 10:46:18,473  INFO [main] User Login Page:77 - Company Side menu clicked 
+2022-07-20 10:46:26,173  INFO [main] User Login Page:268 - Add User clicked 
+2022-07-20 10:46:26,861  INFO [main] User Login Page:77 - Save button clicked 
+2022-07-20 10:46:56,268  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for User Type field
+2022-07-20 10:46:56,302  INFO [main] User Login Page:264 - Error message for "User Type" field is displayed as expected
+2022-07-20 10:47:17,537  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for First Name field
+2022-07-20 10:47:17,595  INFO [main] User Login Page:264 - Error message for "First Name" field is displayed as expected
+2022-07-20 10:47:38,905  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for Last Name field
+2022-07-20 10:47:38,957  INFO [main] User Login Page:264 - Error message for "Last Name" field is displayed as expected
+2022-07-20 10:48:00,363  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for Email field
+2022-07-20 10:48:00,428  INFO [main] User Login Page:264 - Error message for "Email" field is displayed as expected
+2022-07-20 10:48:21,871  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for Password field
+2022-07-20 10:48:21,933  INFO [main] User Login Page:264 - Error message for "Password" field is displayed as expected
+2022-07-20 10:48:43,156  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for Confirm Password field
+2022-07-20 10:48:43,236  INFO [main] User Login Page:264 - Error message for "Confirm Password" field is displayed as expected
+2022-07-20 10:48:55,776  INFO [main] User Login Page:268 - Logout menu clicked 
+2022-07-20 10:48:59,049  INFO [main] User Login Page:268 - Logout clicked 
+2022-07-20 10:49:02,755  INFO [main] User Login Page:56 - User Name entered with value - Sql@yopmail.com
+2022-07-20 10:49:03,207  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 10:49:03,586  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 10:49:03,934  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 10:49:04,650  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 10:49:12,203  INFO [main] Company Setup User Page:77 - Full Menu clicked 
+2022-07-20 10:49:14,547  INFO [main] Company Setup User Page:77 - Company Setup Link clicked 
+2022-07-20 10:49:21,475  INFO [main] Company Setup User Page:77 - Company Side menu clicked 
+2022-07-20 10:49:29,116  INFO [main] Company Setup User Page:268 - Add User clicked 
+2022-07-20 10:49:31,484  INFO [main] Company Setup User Page:56 - First name entered with value - Automation
+2022-07-20 10:49:31,922  INFO [main] Company Setup User Page:56 - Last name entered with value - UserAJCABAFGGL
+2022-07-20 10:49:32,489  INFO [main] Company Setup User Page:56 - Email entered with value - TestUser220720104559@yopmail.com
+2022-07-20 10:49:33,804  INFO [main] Company Setup User Page:77 - Enable Login switch clicked 
+2022-07-20 10:49:34,270  INFO [main] Company Setup User Page:56 - Password entered with value - @Password1
+2022-07-20 10:49:34,712  INFO [main] Company Setup User Page:56 - ConfirmPassword entered with value - @Password1
+2022-07-20 10:49:37,682  INFO [main] Company Setup User Page:77 - Date picker clicked 
+2022-07-20 10:49:38,068  INFO [main] Company Setup User Page:77 - Todays Date clicked 
+2022-07-20 10:49:38,789  INFO [main] Company Setup User Page:77 - Date picker clicked 
+2022-07-20 10:49:39,204  INFO [main] Company Setup User Page:77 - Date of joining clicked 
+2022-07-20 10:49:39,852  INFO [main] Company Setup User Page:77 - Date picker clicked 
+2022-07-20 10:49:40,214  INFO [main] Company Setup User Page:77 - Date of leave clicked 
+2022-07-20 10:49:45,493  INFO [main] Company Setup User Page:56 - Employee Id: entered with value - 22072010455912345
+2022-07-20 10:49:45,995  INFO [main] Company Setup User Page:56 - Alias Name entered with value - AliasName220720104559
+2022-07-20 10:49:46,695  INFO [main] Company Setup User Page:77 - Virtual User switch clicked 
+2022-07-20 10:49:51,043  INFO [main] Company Setup User Page:77 - Save button clicked 
+2022-07-20 10:50:03,469  INFO [main] Company Setup User Page:77 - Action button clicked 
+2022-07-20 10:50:05,881  INFO [main] Company Setup User Page:77 - Associate Licenses button clicked 
+2022-07-20 10:50:08,791  INFO [main] Company Setup User Page:268 - Performance Review License clicked 
+2022-07-20 10:50:14,811  INFO [main] Company Setup User Page:268 - user clicked 
+2022-07-20 10:50:21,119  INFO [main] Company Setup User Page:268 - feedback clicked 
+2022-07-20 10:50:26,652  INFO [main] Company Setup User Page:268 - feedback clicked 
+2022-07-20 10:50:30,197  INFO [main] Company Setup User Page:56 - feedback Question entered with value - Add Feedback Question
+2022-07-20 10:50:35,861  INFO [main] Company Setup User Page:268 - toggle button clicked 
+2022-07-20 10:50:39,482  INFO [main] Company Setup User Page:56 - user Name  entered with value - UserAJCABAFGGL
+2022-07-20 10:50:43,399  INFO [main] Company Setup User Page:77 - Select CheckBox clicked 
+2022-07-20 10:50:47,540  INFO [main] Company Setup User Page:268 - Save Feedback clicked 
+2022-07-20 10:50:51,147  INFO [main] Company Setup User Page:268 - Goal clicked 
+2022-07-20 10:50:56,253  INFO [main] Company Setup User Page:268 - Add Goal clicked 
+2022-07-20 10:50:56,789  INFO [main] Company Setup User Page:56 - title description entered with value - AJCABAFGGL
+2022-07-20 10:50:59,526  INFO [main] Company Setup User Page:268 - start date clicked 
+2022-07-20 10:51:02,118  INFO [main] Company Setup User Page:268 - End date clicked 
+2022-07-20 10:51:02,610  INFO [main] Company Setup User Page:56 - goal description entered with value - Add Goal description 
+2022-07-20 10:51:10,511  INFO [main] Company Setup User Page:268 - Save Goal clicked 
+2022-07-20 10:51:13,572  INFO [main] Company Setup User Page:268 - note tab clicked 
+2022-07-20 10:51:16,202  INFO [main] Company Setup User Page:268 - Add new note clicked 
+2022-07-20 10:51:16,862  INFO [main] Company Setup User Page:56 - title description entered with value - AJCABAFGGL
+2022-07-20 10:51:17,291  INFO [main] Company Setup User Page:56 - enter Note Description entered with value - Add Note description
+2022-07-20 10:51:19,414  INFO [main] Company Setup User Page:268 - save button clicked 
+2022-07-20 10:51:27,137  INFO [main] Company Setup User Page:77 - PerformanceReviewTab clicked 
+2022-07-20 10:51:31,247  INFO [main] Company Setup User Page:77 - Add Review clicked 
+2022-07-20 10:51:31,795  INFO [main] Company Setup User Page:56 - enter title entered with value - Add Review Title
+2022-07-20 10:51:32,197  INFO [main] Company Setup User Page:56 - enter Start Date entered with value - 07/20/2022
+2022-07-20 10:51:33,031  INFO [main] Company Setup User Page:56 - enter End Date entered with value - 07/30/2022
+2022-07-20 10:51:33,666  INFO [main] Company Setup User Page:56 - enter Due Date entered with value - 07/20/2022
+2022-07-20 10:51:35,453  INFO [main] Company Setup User Page:56 - enter Review Description entered with value - Add Review description
+2022-07-20 10:51:36,099  INFO [main] Company Setup User Page:77 - Add first Reviewer clicked 
+2022-07-20 10:51:36,872  INFO [main] Company Setup User Page:77 - Add Approver button clicked 
+2022-07-20 10:51:37,271  INFO [main] Company Setup User Page:56 - enter Reviewer Due date entered with value - 07/20/2022
+2022-07-20 10:51:39,263  INFO [main] Company Setup User Page:77 - Save button clicked 
+2022-07-20 10:51:42,769  INFO [main] Company Setup User Page:268 -  Skill tab clicked 
+2022-07-20 10:51:46,335  INFO [main] Company Setup User Page:268 - Add Skill clicked 
+2022-07-20 10:51:50,192  INFO [main] Company Setup User Page:77 - Select Check Box clicked 
+2022-07-20 10:51:56,334  INFO [main] Company Setup User Page:268 - Save Skill for created user. clicked 
+2022-07-20 10:52:00,698  INFO [main] Company Setup User Page:268 - Create New skill clicked 
+2022-07-20 10:52:01,251  INFO [main] Company Setup User Page:56 - skill Description entered with value - Add Skill description
+2022-07-20 10:52:04,554  INFO [main] Company Setup User Page:268 - Post New Comment clicked 
+2022-07-20 10:52:07,868  INFO [main] Company Setup User Page:268 - Save Skill clicked 
+2022-07-20 10:54:45,812  INFO [main] User Login Page:56 - User Name entered with value - TestUser220720104559@yopmail.com
+2022-07-20 10:54:46,219  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 10:54:46,543  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 10:54:47,278  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 10:54:54,343  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-20 10:54:57,703  INFO [main] Performance Review Page:80 - Performance Side menu not clicked
+2022-07-20 10:54:58,287  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220720105458.png
+2022-07-20 10:57:17,934  INFO [main] User Login Page:56 - User Name entered with value - TestUser220720104559@yopmail.com
+2022-07-20 10:57:18,336  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 10:57:18,663  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 10:57:19,346  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 10:57:26,926  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-20 10:57:30,260  INFO [main] Performance Review Page:80 - Performance Side menu not clicked
+2022-07-20 10:57:30,898  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220720105730.png
+2022-07-20 11:05:34,702  INFO [main] User Login Page:56 - User Name entered with value - TestUser220720104559@yopmail.com
+2022-07-20 11:05:35,103  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 11:05:35,426  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 11:05:36,100  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 11:05:46,736  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-20 11:05:50,121  INFO [main] Performance Review Page:80 - Performance Side menu not clicked
+2022-07-20 11:05:50,711  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220720110550.png
+2022-07-20 11:10:26,112  INFO [main] User Login Page:56 - User Name entered with value - TestUser220720104559@yopmail.com
+2022-07-20 11:10:26,521  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 11:10:26,835  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 11:10:27,531  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 11:10:34,934  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-20 11:10:37,306  INFO [main] Performance Review Page:77 - Performance Side menu clicked 
+2022-07-20 11:10:41,938  INFO [main] Performance Review Page:77 - Perfromance Review clicked 
+2022-07-20 11:10:43,305  INFO [main] Performance Review Page:77 - Goal clicked 
+2022-07-20 11:10:47,546  INFO [main] Performance Review Page:77 - Created Goal clicked 
+2022-07-20 11:11:06,974  INFO [main] Add Expense Limit:177 - Name generated is AJCABBBBAH
+2022-07-20 11:11:07,553  INFO [main] User Login Page:56 - User Name entered with value - TestUser220720104559@yopmail.com
+2022-07-20 11:11:07,954  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 11:11:08,279  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 11:11:08,964  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 11:11:15,957  INFO [main] User Login Page:77 - Full Menu clicked 
+2022-07-20 11:11:18,312  INFO [main] User Login Page:77 - Company Setup Link clicked 
+2022-07-20 11:11:42,849  INFO [main] User Login Page:87 - Company Side menu not clicked
+2022-07-20 11:11:43,499  INFO [main] CompanySetupTest-ValidationCheck:84 - Method - ValidationCheck failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\ValidationCheck_20220720111143.png
+2022-07-20 11:11:50,620  INFO [main] Add Expense Limit:177 - Name generated is AJCABBBBGA
+2022-07-20 11:11:51,197  INFO [main] User Login Page:56 - User Name entered with value - Sql@yopmail.com
+2022-07-20 11:11:51,633  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 11:11:51,996  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 11:11:52,753  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 11:11:56,002  INFO [main] User Login Page:268 - Logout menu clicked 
+2022-07-20 11:11:58,658  INFO [main] User Login Page:268 - Logout clicked 
+2022-07-20 11:11:59,881  INFO [main] User Login Page:77 - Full Menu clicked 
+2022-07-20 11:12:02,425  INFO [main] User Login Page:77 - Company Setup Link clicked 
+2022-07-20 11:12:09,948  INFO [main] User Login Page:77 - Company Side menu clicked 
+2022-07-20 11:12:16,468  INFO [main] User Login Page:60 - User Name not entered with value - TestUser220720104559@yopmail.com, error exist - java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.clear()" because "element" is null
+2022-07-20 11:12:17,795  INFO [main] User Login Page:268 - Add User clicked 
+2022-07-20 11:12:18,496  INFO [main] User Login Page:77 - Save button clicked 
+2022-07-20 11:12:47,879  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for User Type field
+2022-07-20 11:12:47,916  INFO [main] User Login Page:264 - Error message for "User Type" field is displayed as expected
+2022-07-20 11:13:09,070  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for First Name field
+2022-07-20 11:13:09,110  INFO [main] User Login Page:264 - Error message for "First Name" field is displayed as expected
+2022-07-20 11:13:30,611  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for Last Name field
+2022-07-20 11:13:30,683  INFO [main] User Login Page:264 - Error message for "Last Name" field is displayed as expected
+2022-07-20 11:13:52,002  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for Email field
+2022-07-20 11:13:52,097  INFO [main] User Login Page:264 - Error message for "Email" field is displayed as expected
+2022-07-20 11:14:13,452  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for Password field
+2022-07-20 11:14:13,514  INFO [main] User Login Page:264 - Error message for "Password" field is displayed as expected
+2022-07-20 11:14:47,686  INFO [main] User Login Page:252 - The Asterisk symbol is not displayed for Confirm Password field
+2022-07-20 11:14:54,821  INFO [main] Add Expense Limit:177 - Name generated is AJCABBBFGF
+2022-07-20 11:14:55,410  INFO [main] User Login Page:56 - User Name entered with value - Sql@yopmail.com
+2022-07-20 11:14:55,856  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 11:14:56,201  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 11:14:56,965  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 11:15:04,675  INFO [main] User Login Page:77 - Full Menu clicked 
+2022-07-20 11:15:07,177  INFO [main] User Login Page:77 - Company Setup Link clicked 
+2022-07-20 11:15:14,496  INFO [main] User Login Page:77 - Company Side menu clicked 
+2022-07-20 11:15:22,757  INFO [main] User Login Page:268 - Add User clicked 
+2022-07-20 11:15:23,452  INFO [main] User Login Page:77 - Save button clicked 
+2022-07-20 11:15:53,192  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for User Type field
+2022-07-20 11:15:53,213  INFO [main] User Login Page:264 - Error message for "User Type" field is displayed as expected
+2022-07-20 11:15:59,728  INFO [main] Add Expense Limit:177 - Name generated is AJCABBBGGL
+2022-07-20 11:16:00,292  INFO [main] User Login Page:56 - User Name entered with value - Sql@yopmail.com
+2022-07-20 11:16:00,755  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 11:16:01,157  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 11:16:01,856  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 11:16:09,294  INFO [main] User Login Page:77 - Full Menu clicked 
+2022-07-20 11:16:11,949  INFO [main] User Login Page:77 - Company Setup Link clicked 
+2022-07-20 11:16:14,450  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for First Name field
+2022-07-20 11:16:14,496  INFO [main] User Login Page:264 - Error message for "First Name" field is displayed as expected
+2022-07-20 11:16:19,457  INFO [main] User Login Page:77 - Company Side menu clicked 
+2022-07-20 11:16:27,186  INFO [main] User Login Page:268 - Add User clicked 
+2022-07-20 11:16:27,907  INFO [main] User Login Page:77 - Save button clicked 
+2022-07-20 11:16:35,839  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for Last Name field
+2022-07-20 11:16:35,907  INFO [main] User Login Page:264 - Error message for "Last Name" field is displayed as expected
+2022-07-20 11:16:57,226  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for Email field
+2022-07-20 11:16:57,296  INFO [main] User Login Page:264 - Error message for "Email" field is displayed as expected
+2022-07-20 11:16:57,405  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for User Type field
+2022-07-20 11:16:57,427  INFO [main] User Login Page:264 - Error message for "User Type" field is displayed as expected
+2022-07-20 11:17:18,515  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for Password field
+2022-07-20 11:17:18,576  INFO [main] User Login Page:264 - Error message for "Password" field is displayed as expected
+2022-07-20 11:17:18,765  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for First Name field
+2022-07-20 11:17:18,823  INFO [main] User Login Page:264 - Error message for "First Name" field is displayed as expected
+2022-07-20 11:17:39,916  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for Confirm Password field
+2022-07-20 11:17:39,977  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for Last Name field
+2022-07-20 11:17:40,023  INFO [main] User Login Page:264 - Error message for "Confirm Password" field is displayed as expected
+2022-07-20 11:17:40,059  INFO [main] User Login Page:264 - Error message for "Last Name" field is displayed as expected
+2022-07-20 11:17:52,615  INFO [main] User Login Page:268 - Logout menu clicked 
+2022-07-20 11:17:55,776  INFO [main] User Login Page:268 - Logout clicked 
+2022-07-20 11:17:59,457  INFO [main] User Login Page:56 - User Name entered with value - Sql@yopmail.com
+2022-07-20 11:17:59,855  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 11:18:00,184  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 11:18:00,544  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 11:18:01,211  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 11:18:01,264  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for Email field
+2022-07-20 11:18:01,350  INFO [main] User Login Page:264 - Error message for "Email" field is displayed as expected
+2022-07-20 11:18:08,835  INFO [main] Company Setup User Page:77 - Full Menu clicked 
+2022-07-20 11:18:11,195  INFO [main] Company Setup User Page:77 - Company Setup Link clicked 
+2022-07-20 11:18:18,300  INFO [main] Company Setup User Page:77 - Company Side menu clicked 
+2022-07-20 11:18:22,653  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for Password field
+2022-07-20 11:18:22,719  INFO [main] User Login Page:264 - Error message for "Password" field is displayed as expected
+2022-07-20 11:18:25,978  INFO [main] Company Setup User Page:268 - Add User clicked 
+2022-07-20 11:18:28,513  INFO [main] Company Setup User Page:56 - First name entered with value - Automation
+2022-07-20 11:18:28,998  INFO [main] Company Setup User Page:56 - Last name entered with value - UserAJCABBBFGF
+2022-07-20 11:18:29,503  INFO [main] Company Setup User Page:56 - Email entered with value - TestUser220720111454@yopmail.com
+2022-07-20 11:18:30,904  INFO [main] Company Setup User Page:77 - Enable Login switch clicked 
+2022-07-20 11:18:31,312  INFO [main] Company Setup User Page:56 - Password entered with value - @Password1
+2022-07-20 11:18:31,737  INFO [main] Company Setup User Page:56 - ConfirmPassword entered with value - @Password1
+2022-07-20 11:18:34,618  INFO [main] Company Setup User Page:77 - Date picker clicked 
+2022-07-20 11:18:35,051  INFO [main] Company Setup User Page:77 - Todays Date clicked 
+2022-07-20 11:18:35,873  INFO [main] Company Setup User Page:77 - Date picker clicked 
+2022-07-20 11:18:36,267  INFO [main] Company Setup User Page:77 - Date of joining clicked 
+2022-07-20 11:18:36,935  INFO [main] Company Setup User Page:77 - Date picker clicked 
+2022-07-20 11:18:37,375  INFO [main] Company Setup User Page:77 - Date of leave clicked 
+2022-07-20 11:18:42,532  INFO [main] Company Setup User Page:56 - Employee Id: entered with value - 22072011145412345
+2022-07-20 11:18:43,030  INFO [main] Company Setup User Page:56 - Alias Name entered with value - AliasName220720111454
+2022-07-20 11:18:43,666  INFO [main] Company Setup User Page:77 - Virtual User switch clicked 
+2022-07-20 11:18:44,108  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for Confirm Password field
+2022-07-20 11:18:44,186  INFO [main] User Login Page:264 - Error message for "Confirm Password" field is displayed as expected
+2022-07-20 11:18:47,952  INFO [main] Company Setup User Page:77 - Save button clicked 
+2022-07-20 11:18:56,656  INFO [main] User Login Page:268 - Logout menu clicked 
+2022-07-20 11:18:59,862  INFO [main] User Login Page:268 - Logout clicked 
+2022-07-20 11:19:00,300  INFO [main] Company Setup User Page:77 - Action button clicked 
+2022-07-20 11:19:02,532  INFO [main] Company Setup User Page:77 - Associate Licenses button clicked 
+2022-07-20 11:19:03,508  INFO [main] User Login Page:56 - User Name entered with value - Sql@yopmail.com
+2022-07-20 11:19:03,948  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 11:19:04,329  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 11:19:04,689  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 11:19:05,395  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 11:19:05,438  INFO [main] Company Setup User Page:268 - Performance Review License clicked 
+2022-07-20 11:19:11,412  INFO [main] Company Setup User Page:268 - user clicked 
+2022-07-20 11:19:13,102  INFO [main] Company Setup User Page:77 - Full Menu clicked 
+2022-07-20 11:19:15,482  INFO [main] Company Setup User Page:77 - Company Setup Link clicked 
+2022-07-20 11:19:17,745  INFO [main] Company Setup User Page:268 - feedback clicked 
+2022-07-20 11:19:22,645  INFO [main] Company Setup User Page:77 - Company Side menu clicked 
+2022-07-20 11:19:23,271  INFO [main] Company Setup User Page:268 - feedback clicked 
+2022-07-20 11:19:26,814  INFO [main] Company Setup User Page:56 - feedback Question entered with value - Add Feedback Question
+2022-07-20 11:19:30,280  INFO [main] Company Setup User Page:268 - Add User clicked 
+2022-07-20 11:19:32,504  INFO [main] Company Setup User Page:268 - toggle button clicked 
+2022-07-20 11:19:32,683  INFO [main] Company Setup User Page:56 - First name entered with value - Automation
+2022-07-20 11:19:33,230  INFO [main] Company Setup User Page:56 - Last name entered with value - UserAJCABBBGGL
+2022-07-20 11:19:33,818  INFO [main] Company Setup User Page:56 - Email entered with value - TestUser220720111559@yopmail.com
+2022-07-20 11:19:35,371  INFO [main] Company Setup User Page:77 - Enable Login switch clicked 
+2022-07-20 11:19:35,786  INFO [main] Company Setup User Page:56 - Password entered with value - @Password1
+2022-07-20 11:19:36,115  INFO [main] Company Setup User Page:56 - user Name  entered with value - UserAJCABBBFGF
+2022-07-20 11:19:36,232  INFO [main] Company Setup User Page:56 - ConfirmPassword entered with value - @Password1
+2022-07-20 11:19:39,108  INFO [main] Company Setup User Page:77 - Date picker clicked 
+2022-07-20 11:19:39,569  INFO [main] Company Setup User Page:77 - Todays Date clicked 
+2022-07-20 11:19:40,261  INFO [main] Company Setup User Page:77 - Select CheckBox clicked 
+2022-07-20 11:19:40,434  INFO [main] Company Setup User Page:77 - Date picker clicked 
+2022-07-20 11:19:40,835  INFO [main] Company Setup User Page:77 - Date of joining clicked 
+2022-07-20 11:19:41,530  INFO [main] Company Setup User Page:77 - Date picker clicked 
+2022-07-20 11:19:41,922  INFO [main] Company Setup User Page:77 - Date of leave clicked 
+2022-07-20 11:19:44,360  INFO [main] Company Setup User Page:268 - Save Feedback clicked 
+2022-07-20 11:19:47,078  INFO [main] Company Setup User Page:56 - Employee Id: entered with value - 22072011155912345
+2022-07-20 11:19:47,568  INFO [main] Company Setup User Page:56 - Alias Name entered with value - AliasName220720111559
+2022-07-20 11:19:48,112  INFO [main] Company Setup User Page:268 - Goal clicked 
+2022-07-20 11:19:48,335  INFO [main] Company Setup User Page:77 - Virtual User switch clicked 
+2022-07-20 11:19:52,893  INFO [main] Company Setup User Page:77 - Save button clicked 
+2022-07-20 11:19:53,365  INFO [main] Company Setup User Page:268 - Add Goal clicked 
+2022-07-20 11:19:53,872  INFO [main] Company Setup User Page:56 - title description entered with value - AJCABBBFGF
+2022-07-20 11:19:56,690  INFO [main] Company Setup User Page:268 - start date clicked 
+2022-07-20 11:19:59,291  INFO [main] Company Setup User Page:268 - End date clicked 
+2022-07-20 11:19:59,760  INFO [main] Company Setup User Page:56 - goal description entered with value - Add Goal description 
+2022-07-20 11:20:05,248  INFO [main] Company Setup User Page:77 - Action button clicked 
+2022-07-20 11:20:07,497  INFO [main] Company Setup User Page:77 - Associate Licenses button clicked 
+2022-07-20 11:20:07,930  INFO [main] Company Setup User Page:268 - Save Goal clicked 
+2022-07-20 11:20:10,356  INFO [main] Company Setup User Page:268 - Performance Review License clicked 
+2022-07-20 11:20:10,970  INFO [main] Company Setup User Page:268 - note tab clicked 
+2022-07-20 11:20:13,571  INFO [main] Company Setup User Page:268 - Add new note clicked 
+2022-07-20 11:20:14,222  INFO [main] Company Setup User Page:56 - title description entered with value - AJCABBBFGF
+2022-07-20 11:20:14,730  INFO [main] Company Setup User Page:56 - enter Note Description entered with value - Add Note description
+2022-07-20 11:20:16,429  INFO [main] Company Setup User Page:268 - user clicked 
+2022-07-20 11:20:16,824  INFO [main] Company Setup User Page:268 - save button clicked 
+2022-07-20 11:20:22,714  INFO [main] Company Setup User Page:268 - feedback clicked 
+2022-07-20 11:20:24,442  INFO [main] Company Setup User Page:77 - PerformanceReviewTab clicked 
+2022-07-20 11:20:28,164  INFO [main] Company Setup User Page:268 - feedback clicked 
+2022-07-20 11:20:28,585  INFO [main] Company Setup User Page:77 - Add Review clicked 
+2022-07-20 11:20:29,166  INFO [main] Company Setup User Page:56 - enter title entered with value - Add Review Title
+2022-07-20 11:20:29,608  INFO [main] Company Setup User Page:56 - enter Start Date entered with value - 07/20/2022
+2022-07-20 11:20:30,428  INFO [main] Company Setup User Page:56 - enter End Date entered with value - 07/30/2022
+2022-07-20 11:20:31,136  INFO [main] Company Setup User Page:56 - enter Due Date entered with value - 07/20/2022
+2022-07-20 11:20:31,586  INFO [main] Company Setup User Page:56 - feedback Question entered with value - Add Feedback Question
+2022-07-20 11:20:32,918  INFO [main] Company Setup User Page:56 - enter Review Description entered with value - Add Review description
+2022-07-20 11:20:33,585  INFO [main] Company Setup User Page:77 - Add first Reviewer clicked 
+2022-07-20 11:20:34,311  INFO [main] Company Setup User Page:77 - Add Approver button clicked 
+2022-07-20 11:20:34,786  INFO [main] Company Setup User Page:56 - enter Reviewer Due date entered with value - 07/20/2022
+2022-07-20 11:20:36,798  INFO [main] Company Setup User Page:77 - Save button clicked 
+2022-07-20 11:20:37,343  INFO [main] Company Setup User Page:268 - toggle button clicked 
+2022-07-20 11:20:40,359  INFO [main] Company Setup User Page:268 -  Skill tab clicked 
+2022-07-20 11:20:40,930  INFO [main] Company Setup User Page:56 - user Name  entered with value - UserAJCABBBGGL
+2022-07-20 11:20:43,802  INFO [main] Company Setup User Page:268 - Add Skill clicked 
+2022-07-20 11:20:44,825  INFO [main] Company Setup User Page:77 - Select CheckBox clicked 
+2022-07-20 11:20:47,646  INFO [main] Company Setup User Page:77 - Select Check Box clicked 
+2022-07-20 11:20:48,805  INFO [main] Company Setup User Page:268 - Save Feedback clicked 
+2022-07-20 11:20:52,351  INFO [main] Company Setup User Page:268 - Goal clicked 
+2022-07-20 11:20:53,744  INFO [main] Company Setup User Page:268 - Save Skill for created user. clicked 
+2022-07-20 11:20:57,578  INFO [main] Company Setup User Page:268 - Add Goal clicked 
+2022-07-20 11:20:58,073  INFO [main] Company Setup User Page:56 - title description entered with value - AJCABBBGGL
+2022-07-20 11:20:58,574  INFO [main] Company Setup User Page:268 - Create New skill clicked 
+2022-07-20 11:20:59,001  INFO [main] Company Setup User Page:56 - skill Description entered with value - Add Skill description
+2022-07-20 11:21:00,775  INFO [main] Company Setup User Page:268 - start date clicked 
+2022-07-20 11:21:02,408  INFO [main] Company Setup User Page:268 - Post New Comment clicked 
+2022-07-20 11:21:03,353  INFO [main] Company Setup User Page:268 - End date clicked 
+2022-07-20 11:21:03,867  INFO [main] Company Setup User Page:56 - goal description entered with value - Add Goal description 
+2022-07-20 11:21:05,819  INFO [main] Company Setup User Page:268 - Save Skill clicked 
+2022-07-20 11:21:11,791  INFO [main] Company Setup User Page:268 - Save Goal clicked 
+2022-07-20 11:21:14,840  INFO [main] Company Setup User Page:268 - note tab clicked 
+2022-07-20 11:21:17,447  INFO [main] Company Setup User Page:268 - Add new note clicked 
+2022-07-20 11:21:18,076  INFO [main] Company Setup User Page:56 - title description entered with value - AJCABBBGGL
+2022-07-20 11:21:18,549  INFO [main] Company Setup User Page:56 - enter Note Description entered with value - Add Note description
+2022-07-20 11:21:20,646  INFO [main] Company Setup User Page:268 - save button clicked 
+2022-07-20 11:21:28,258  INFO [main] Company Setup User Page:77 - PerformanceReviewTab clicked 
+2022-07-20 11:21:32,364  INFO [main] Company Setup User Page:77 - Add Review clicked 
+2022-07-20 11:21:32,944  INFO [main] Company Setup User Page:56 - enter title entered with value - Add Review Title
+2022-07-20 11:21:33,462  INFO [main] Company Setup User Page:56 - enter Start Date entered with value - 07/20/2022
+2022-07-20 11:21:34,379  INFO [main] Company Setup User Page:56 - enter End Date entered with value - 07/30/2022
+2022-07-20 11:21:35,021  INFO [main] Company Setup User Page:56 - enter Due Date entered with value - 07/20/2022
+2022-07-20 11:21:36,831  INFO [main] Company Setup User Page:56 - enter Review Description entered with value - Add Review description
+2022-07-20 11:21:37,519  INFO [main] Company Setup User Page:77 - Add first Reviewer clicked 
+2022-07-20 11:21:38,246  INFO [main] Company Setup User Page:77 - Add Approver button clicked 
+2022-07-20 11:21:38,682  INFO [main] Company Setup User Page:56 - enter Reviewer Due date entered with value - 07/20/2022
+2022-07-20 11:21:40,709  INFO [main] Company Setup User Page:77 - Save button clicked 
+2022-07-20 11:21:44,146  INFO [main] Company Setup User Page:268 -  Skill tab clicked 
+2022-07-20 11:21:47,510  INFO [main] Company Setup User Page:268 - Add Skill clicked 
+2022-07-20 11:21:51,377  INFO [main] Company Setup User Page:77 - Select Check Box clicked 
+2022-07-20 11:21:57,432  INFO [main] Company Setup User Page:268 - Save Skill for created user. clicked 
+2022-07-20 11:22:01,838  INFO [main] Company Setup User Page:268 - Create New skill clicked 
+2022-07-20 11:22:02,272  INFO [main] Company Setup User Page:56 - skill Description entered with value - Add Skill description
+2022-07-20 11:22:05,562  INFO [main] Company Setup User Page:268 - Post New Comment clicked 
+2022-07-20 11:22:08,840  INFO [main] Company Setup User Page:268 - Save Skill clicked 
+2022-07-20 11:23:46,768  INFO [main] User Login Page:56 - User Name entered with value - TestUser220720111559@yopmail.com
+2022-07-20 11:23:47,195  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 11:23:47,533  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 11:23:48,234  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 11:23:55,234  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-20 11:23:58,659  INFO [main] Performance Review Page:80 - Performance Side menu not clicked
+2022-07-20 11:23:59,261  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220720112358.png
+2022-07-20 11:25:25,939  INFO [main] User Login Page:56 - User Name entered with value - TestUser220720111559@yopmail.com
+2022-07-20 11:25:26,330  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 11:25:26,650  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 11:25:27,304  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 11:25:34,006  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-20 11:25:37,402  INFO [main] Performance Review Page:80 - Performance Side menu not clicked
+2022-07-20 11:25:38,013  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220720112537.png
+2022-07-20 11:27:39,722  INFO [main] User Login Page:56 - User Name entered with value - TestUser220720111559@yopmail.com
+2022-07-20 11:27:40,112  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 11:27:40,458  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 11:27:41,135  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 11:27:48,014  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-20 11:27:51,403  INFO [main] Performance Review Page:80 - Performance Side menu not clicked
+2022-07-20 11:27:52,063  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220720112751.png
+2022-07-20 11:28:48,904  INFO [main] User Login Page:56 - User Name entered with value - TestUser220720111559@yopmail.com
+2022-07-20 11:28:49,300  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 11:28:49,653  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 11:28:50,409  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 11:28:58,842  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-20 11:29:02,192  INFO [main] Performance Review Page:80 - Performance Side menu not clicked
+2022-07-20 11:29:02,832  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220720112902.png
+2022-07-20 11:31:33,694  INFO [main] User Login Page:56 - User Name entered with value - TestUser220720111559@yopmail.com
+2022-07-20 11:31:34,087  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 11:31:34,439  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 11:31:35,140  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 11:31:41,787  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-20 11:31:45,140  INFO [main] Performance Review Page:80 - Performance Side menu not clicked
+2022-07-20 11:31:45,778  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220720113145.png
+2022-07-20 11:36:43,030  INFO [main] User Login Page:56 - User Name entered with value - TestUser220720111559@yopmail.com
+2022-07-20 11:36:43,470  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 11:36:43,822  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 11:36:44,506  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 11:36:51,550  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-20 11:36:54,959  INFO [main] Performance Review Page:80 - Performance Side menu not clicked
+2022-07-20 11:36:55,622  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220720113655.png
+2022-07-20 11:39:39,088  INFO [main] User Login Page:56 - User Name entered with value - TestUser220720111559@yopmail.com
+2022-07-20 11:39:39,489  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 11:39:39,818  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 11:39:40,503  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 11:39:47,323  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-20 11:39:49,681  INFO [main] Performance Review Page:77 - Performance Side menu clicked 
+2022-07-20 11:39:54,393  INFO [main] Performance Review Page:77 - Perfromance Review clicked 
+2022-07-20 11:39:55,753  INFO [main] Performance Review Page:77 - Goal clicked 
+2022-07-20 11:39:58,319  INFO [main] Performance Review Page:77 - Created Goal clicked 
+2022-07-20 11:40:35,075  INFO [main] Add Expense Limit:177 - Name generated is AJCABBFADG
+2022-07-20 11:40:35,577  INFO [main] User Login Page:56 - User Name entered with value - Sql@yopmail.com
+2022-07-20 11:40:36,021  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 11:40:36,357  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 11:40:37,043  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 11:40:43,423  INFO [main] User Login Page:77 - Full Menu clicked 
+2022-07-20 11:40:46,000  INFO [main] User Login Page:77 - Company Setup Link clicked 
+2022-07-20 11:40:53,780  INFO [main] User Login Page:77 - Company Side menu clicked 
+2022-07-20 11:41:01,695  INFO [main] User Login Page:268 - Add User clicked 
+2022-07-20 11:41:02,392  INFO [main] User Login Page:77 - Save button clicked 
+2022-07-20 11:41:31,741  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for User Type field
+2022-07-20 11:41:31,765  INFO [main] User Login Page:264 - Error message for "User Type" field is displayed as expected
+2022-07-20 11:41:53,046  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for First Name field
+2022-07-20 11:41:53,105  INFO [main] User Login Page:264 - Error message for "First Name" field is displayed as expected
+2022-07-20 11:42:14,209  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for Last Name field
+2022-07-20 11:42:14,288  INFO [main] User Login Page:264 - Error message for "Last Name" field is displayed as expected
+2022-07-20 11:42:35,611  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for Email field
+2022-07-20 11:42:35,692  INFO [main] User Login Page:264 - Error message for "Email" field is displayed as expected
+2022-07-20 11:42:57,089  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for Password field
+2022-07-20 11:42:57,149  INFO [main] User Login Page:264 - Error message for "Password" field is displayed as expected
+2022-07-20 11:43:18,518  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for Confirm Password field
+2022-07-20 11:43:18,592  INFO [main] User Login Page:264 - Error message for "Confirm Password" field is displayed as expected
+2022-07-20 11:43:31,213  INFO [main] User Login Page:268 - Logout menu clicked 
+2022-07-20 11:43:34,427  INFO [main] User Login Page:268 - Logout clicked 
+2022-07-20 11:43:37,456  INFO [main] User Login Page:56 - User Name entered with value - Sql@yopmail.com
+2022-07-20 11:43:37,887  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 11:43:38,237  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 11:43:38,590  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 11:43:39,245  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 11:43:46,702  INFO [main] Company Setup User Page:77 - Full Menu clicked 
+2022-07-20 11:43:49,101  INFO [main] Company Setup User Page:77 - Company Setup Link clicked 
+2022-07-20 11:43:56,076  INFO [main] Company Setup User Page:77 - Company Side menu clicked 
+2022-07-20 11:44:03,696  INFO [main] Company Setup User Page:268 - Add User clicked 
+2022-07-20 11:44:06,212  INFO [main] Company Setup User Page:56 - First name entered with value - Automation
+2022-07-20 11:44:06,699  INFO [main] Company Setup User Page:56 - Last name entered with value - UserAJCABBFADG
+2022-07-20 11:44:07,247  INFO [main] Company Setup User Page:56 - Email entered with value - TestUser220720114035@yopmail.com
+2022-07-20 11:44:08,738  INFO [main] Company Setup User Page:77 - Enable Login switch clicked 
+2022-07-20 11:44:09,175  INFO [main] Company Setup User Page:56 - Password entered with value - @Password1
+2022-07-20 11:44:09,629  INFO [main] Company Setup User Page:56 - ConfirmPassword entered with value - @Password1
+2022-07-20 11:44:12,622  INFO [main] Company Setup User Page:77 - Date picker clicked 
+2022-07-20 11:44:13,032  INFO [main] Company Setup User Page:77 - Todays Date clicked 
+2022-07-20 11:44:13,788  INFO [main] Company Setup User Page:77 - Date picker clicked 
+2022-07-20 11:44:14,187  INFO [main] Company Setup User Page:77 - Date of joining clicked 
+2022-07-20 11:44:14,853  INFO [main] Company Setup User Page:77 - Date picker clicked 
+2022-07-20 11:44:15,266  INFO [main] Company Setup User Page:77 - Date of leave clicked 
+2022-07-20 11:44:20,428  INFO [main] Company Setup User Page:56 - Employee Id: entered with value - 22072011403512345
+2022-07-20 11:44:20,935  INFO [main] Company Setup User Page:56 - Alias Name entered with value - AliasName220720114035
+2022-07-20 11:44:21,618  INFO [main] Company Setup User Page:77 - Virtual User switch clicked 
+2022-07-20 11:44:26,171  INFO [main] Company Setup User Page:77 - Save button clicked 
+2022-07-20 11:44:38,593  INFO [main] Company Setup User Page:77 - Action button clicked 
+2022-07-20 11:44:40,926  INFO [main] Company Setup User Page:77 - Associate Licenses button clicked 
+2022-07-20 11:44:43,745  INFO [main] Company Setup User Page:268 - Performance Review License clicked 
+2022-07-20 11:44:49,675  INFO [main] Company Setup User Page:268 - user clicked 
+2022-07-20 11:44:55,940  INFO [main] Company Setup User Page:268 - feedback clicked 
+2022-07-20 11:45:01,351  INFO [main] Company Setup User Page:268 - feedback clicked 
+2022-07-20 11:45:04,882  INFO [main] Company Setup User Page:56 - feedback Question entered with value - Add Feedback Question
+2022-07-20 11:45:10,473  INFO [main] Company Setup User Page:268 - toggle button clicked 
+2022-07-20 11:45:14,119  INFO [main] Company Setup User Page:56 - user Name  entered with value - UserAJCABBFADG
+2022-07-20 11:45:17,992  INFO [main] Company Setup User Page:77 - Select CheckBox clicked 
+2022-07-20 11:45:22,039  INFO [main] Company Setup User Page:268 - Save Feedback clicked 
+2022-07-20 11:45:25,590  INFO [main] Company Setup User Page:268 - Goal clicked 
+2022-07-20 11:45:30,633  INFO [main] Company Setup User Page:268 - Add Goal clicked 
+2022-07-20 11:45:31,116  INFO [main] Company Setup User Page:56 - title description entered with value - AJCABBFADG
+2022-07-20 11:45:33,843  INFO [main] Company Setup User Page:268 - start date clicked 
+2022-07-20 11:45:36,421  INFO [main] Company Setup User Page:268 - End date clicked 
+2022-07-20 11:45:36,880  INFO [main] Company Setup User Page:56 - goal description entered with value - Add Goal description 
+2022-07-20 11:45:44,700  INFO [main] Company Setup User Page:268 - Save Goal clicked 
+2022-07-20 11:45:47,718  INFO [main] Company Setup User Page:268 - note tab clicked 
+2022-07-20 11:45:50,349  INFO [main] Company Setup User Page:268 - Add new note clicked 
+2022-07-20 11:45:51,044  INFO [main] Company Setup User Page:56 - title description entered with value - AJCABBFADG
+2022-07-20 11:45:51,496  INFO [main] Company Setup User Page:56 - enter Note Description entered with value - Add Note description
+2022-07-20 11:45:53,583  INFO [main] Company Setup User Page:268 - save button clicked 
+2022-07-20 11:46:01,216  INFO [main] Company Setup User Page:77 - PerformanceReviewTab clicked 
+2022-07-20 11:46:05,301  INFO [main] Company Setup User Page:77 - Add Review clicked 
+2022-07-20 11:46:05,953  INFO [main] Company Setup User Page:56 - enter title entered with value - Add Review Title
+2022-07-20 11:46:06,412  INFO [main] Company Setup User Page:56 - enter Start Date entered with value - 07/20/2022
+2022-07-20 11:46:07,249  INFO [main] Company Setup User Page:56 - enter End Date entered with value - 07/30/2022
+2022-07-20 11:46:07,877  INFO [main] Company Setup User Page:56 - enter Due Date entered with value - 07/20/2022
+2022-07-20 11:46:09,680  INFO [main] Company Setup User Page:56 - enter Review Description entered with value - Add Review description
+2022-07-20 11:46:10,322  INFO [main] Company Setup User Page:77 - Add first Reviewer clicked 
+2022-07-20 11:46:11,033  INFO [main] Company Setup User Page:77 - Add Approver button clicked 
+2022-07-20 11:46:11,465  INFO [main] Company Setup User Page:56 - enter Reviewer Due date entered with value - 07/20/2022
+2022-07-20 11:46:13,500  INFO [main] Company Setup User Page:77 - Save button clicked 
+2022-07-20 11:46:16,992  INFO [main] Company Setup User Page:268 -  Skill tab clicked 
+2022-07-20 11:46:20,432  INFO [main] Company Setup User Page:268 - Add Skill clicked 
+2022-07-20 11:46:24,307  INFO [main] Company Setup User Page:77 - Select Check Box clicked 
+2022-07-20 11:46:30,394  INFO [main] Company Setup User Page:268 - Save Skill for created user. clicked 
+2022-07-20 11:46:34,724  INFO [main] Company Setup User Page:268 - Create New skill clicked 
+2022-07-20 11:46:35,184  INFO [main] Company Setup User Page:56 - skill Description entered with value - Add Skill description
+2022-07-20 11:46:38,480  INFO [main] Company Setup User Page:268 - Post New Comment clicked 
+2022-07-20 11:46:41,862  INFO [main] Company Setup User Page:268 - Save Skill clicked 
+2022-07-20 11:48:17,783  INFO [main] User Login Page:56 - User Name entered with value - TestUser220720114035@yopmail.com
+2022-07-20 11:48:18,193  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 11:48:18,529  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 11:48:19,220  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 11:48:26,228  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-20 11:48:29,567  INFO [main] Performance Review Page:80 - Performance Side menu not clicked
+2022-07-20 11:48:30,265  INFO [main] PerformanceReviewTest-addReview:84 - Method - addReview failed , see the screenshot - C:\Users\aanand\git\Performance-Review-Module\Performance-Review-Module-master\reports\addReview_20220720114829.png
+2022-07-20 11:49:30,154  INFO [main] User Login Page:56 - User Name entered with value - TestUser220720114035@yopmail.com
+2022-07-20 11:49:30,563  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 11:49:30,889  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 11:49:31,567  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 11:50:11,583  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-20 11:50:13,993  INFO [main] Performance Review Page:77 - Performance Side menu clicked 
+2022-07-20 11:50:18,563  INFO [main] Performance Review Page:77 - Perfromance Review clicked 
+2022-07-20 11:50:20,226  INFO [main] Performance Review Page:77 - Goal clicked 
+2022-07-20 11:50:23,815  INFO [main] Performance Review Page:77 - Created Goal clicked 
+2022-07-20 11:51:48,159  INFO [main] Add Expense Limit:177 - Name generated is AJCABBGBFK
+2022-07-20 11:51:48,724  INFO [main] User Login Page:56 - User Name entered with value - Sql@yopmail.com
+2022-07-20 11:51:49,148  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 11:51:49,529  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 11:51:50,257  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 11:51:57,503  INFO [main] User Login Page:77 - Full Menu clicked 
+2022-07-20 11:52:00,249  INFO [main] User Login Page:77 - Company Setup Link clicked 
+2022-07-20 11:52:07,824  INFO [main] User Login Page:77 - Company Side menu clicked 
+2022-07-20 11:52:15,535  INFO [main] User Login Page:268 - Add User clicked 
+2022-07-20 11:52:16,238  INFO [main] User Login Page:77 - Save button clicked 
+2022-07-20 11:52:45,682  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for User Type field
+2022-07-20 11:52:45,715  INFO [main] User Login Page:264 - Error message for "User Type" field is displayed as expected
+2022-07-20 11:53:07,103  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for First Name field
+2022-07-20 11:53:07,165  INFO [main] User Login Page:264 - Error message for "First Name" field is displayed as expected
+2022-07-20 11:53:28,444  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for Last Name field
+2022-07-20 11:53:28,548  INFO [main] User Login Page:264 - Error message for "Last Name" field is displayed as expected
+2022-07-20 11:53:49,800  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for Email field
+2022-07-20 11:53:49,876  INFO [main] User Login Page:264 - Error message for "Email" field is displayed as expected
+2022-07-20 11:54:11,021  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for Password field
+2022-07-20 11:54:11,085  INFO [main] User Login Page:264 - Error message for "Password" field is displayed as expected
+2022-07-20 11:54:32,289  INFO [main] User Login Page:242 - The Asterisk symbol is displayed for Confirm Password field
+2022-07-20 11:54:32,361  INFO [main] User Login Page:264 - Error message for "Confirm Password" field is displayed as expected
+2022-07-20 11:54:44,892  INFO [main] User Login Page:268 - Logout menu clicked 
+2022-07-20 11:54:48,120  INFO [main] User Login Page:268 - Logout clicked 
+2022-07-20 11:54:50,548  INFO [main] User Login Page:56 - User Name entered with value - Sql@yopmail.com
+2022-07-20 11:54:51,014  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 11:54:51,328  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 11:54:51,716  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 11:54:52,430  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 11:54:59,773  INFO [main] Company Setup User Page:77 - Full Menu clicked 
+2022-07-20 11:55:02,141  INFO [main] Company Setup User Page:77 - Company Setup Link clicked 
+2022-07-20 11:55:09,209  INFO [main] Company Setup User Page:77 - Company Side menu clicked 
+2022-07-20 11:55:16,848  INFO [main] Company Setup User Page:268 - Add User clicked 
+2022-07-20 11:55:19,357  INFO [main] Company Setup User Page:56 - First name entered with value - Automation
+2022-07-20 11:55:19,845  INFO [main] Company Setup User Page:56 - Last name entered with value - UserAJCABBGBFK
+2022-07-20 11:55:20,386  INFO [main] Company Setup User Page:56 - Email entered with value - TestUser220720115148@yopmail.com
+2022-07-20 11:55:21,824  INFO [main] Company Setup User Page:77 - Enable Login switch clicked 
+2022-07-20 11:55:22,245  INFO [main] Company Setup User Page:56 - Password entered with value - @Password1
+2022-07-20 11:55:22,662  INFO [main] Company Setup User Page:56 - ConfirmPassword entered with value - @Password1
+2022-07-20 11:55:25,764  INFO [main] Company Setup User Page:77 - Date picker clicked 
+2022-07-20 11:55:26,209  INFO [main] Company Setup User Page:77 - Todays Date clicked 
+2022-07-20 11:55:27,027  INFO [main] Company Setup User Page:77 - Date picker clicked 
+2022-07-20 11:55:27,441  INFO [main] Company Setup User Page:77 - Date of joining clicked 
+2022-07-20 11:55:28,109  INFO [main] Company Setup User Page:77 - Date picker clicked 
+2022-07-20 11:55:28,592  INFO [main] Company Setup User Page:77 - Date of leave clicked 
+2022-07-20 11:55:33,695  INFO [main] Company Setup User Page:56 - Employee Id: entered with value - 22072011514812345
+2022-07-20 11:55:34,161  INFO [main] Company Setup User Page:56 - Alias Name entered with value - AliasName220720115148
+2022-07-20 11:55:34,832  INFO [main] Company Setup User Page:77 - Virtual User switch clicked 
+2022-07-20 11:55:41,630  INFO [main] Company Setup User Page:77 - Save button clicked 
+2022-07-20 11:55:54,060  INFO [main] Company Setup User Page:77 - Action button clicked 
+2022-07-20 11:55:56,469  INFO [main] Company Setup User Page:77 - Associate Licenses button clicked 
+2022-07-20 11:55:59,350  INFO [main] Company Setup User Page:268 - Performance Review License clicked 
+2022-07-20 11:56:05,190  INFO [main] Company Setup User Page:268 - user clicked 
+2022-07-20 11:56:11,492  INFO [main] Company Setup User Page:268 - feedback clicked 
+2022-07-20 11:56:16,943  INFO [main] Company Setup User Page:268 - feedback clicked 
+2022-07-20 11:56:20,426  INFO [main] Company Setup User Page:56 - feedback Question entered with value - Add Feedback Question
+2022-07-20 11:56:26,020  INFO [main] Company Setup User Page:268 - toggle button clicked 
+2022-07-20 11:56:29,741  INFO [main] Company Setup User Page:56 - user Name  entered with value - UserAJCABBGBFK
+2022-07-20 11:56:33,650  INFO [main] Company Setup User Page:77 - Select CheckBox clicked 
+2022-07-20 11:56:37,755  INFO [main] Company Setup User Page:268 - Save Feedback clicked 
+2022-07-20 11:56:41,337  INFO [main] Company Setup User Page:268 - Goal clicked 
+2022-07-20 11:56:47,845  INFO [main] Company Setup User Page:268 - Add Goal clicked 
+2022-07-20 11:56:48,361  INFO [main] Company Setup User Page:56 - title description entered with value - AJCABBGBFK
+2022-07-20 11:56:51,078  INFO [main] Company Setup User Page:268 - start date clicked 
+2022-07-20 11:56:53,672  INFO [main] Company Setup User Page:268 - End date clicked 
+2022-07-20 11:56:54,150  INFO [main] Company Setup User Page:56 - goal description entered with value - Add Goal description 
+2022-07-20 11:57:01,719  INFO [main] Company Setup User Page:268 - Save Goal clicked 
+2022-07-20 11:57:04,751  INFO [main] Company Setup User Page:268 - note tab clicked 
+2022-07-20 11:57:07,425  INFO [main] Company Setup User Page:268 - Add new note clicked 
+2022-07-20 11:57:08,098  INFO [main] Company Setup User Page:56 - title description entered with value - AJCABBGBFK
+2022-07-20 11:57:08,581  INFO [main] Company Setup User Page:56 - enter Note Description entered with value - Add Note description
+2022-07-20 11:57:10,681  INFO [main] Company Setup User Page:268 - save button clicked 
+2022-07-20 11:57:18,282  INFO [main] Company Setup User Page:77 - PerformanceReviewTab clicked 
+2022-07-20 11:57:22,519  INFO [main] Company Setup User Page:77 - Add Review clicked 
+2022-07-20 11:57:23,436  INFO [main] Company Setup User Page:56 - enter title entered with value - Add Review Title
+2022-07-20 11:57:23,894  INFO [main] Company Setup User Page:56 - enter Start Date entered with value - 07/20/2022
+2022-07-20 11:57:24,791  INFO [main] Company Setup User Page:56 - enter End Date entered with value - 07/30/2022
+2022-07-20 11:57:25,482  INFO [main] Company Setup User Page:56 - enter Due Date entered with value - 07/20/2022
+2022-07-20 11:57:27,324  INFO [main] Company Setup User Page:56 - enter Review Description entered with value - Add Review description
+2022-07-20 11:57:28,028  INFO [main] Company Setup User Page:77 - Add first Reviewer clicked 
+2022-07-20 11:57:28,777  INFO [main] Company Setup User Page:77 - Add Approver button clicked 
+2022-07-20 11:57:29,188  INFO [main] Company Setup User Page:56 - enter Reviewer Due date entered with value - 07/20/2022
+2022-07-20 11:57:31,185  INFO [main] Company Setup User Page:77 - Save button clicked 
+2022-07-20 11:57:34,687  INFO [main] Company Setup User Page:268 -  Skill tab clicked 
+2022-07-20 11:57:37,367  INFO [main] Company Setup User Page:268 - Add Skill clicked 
+2022-07-20 11:57:42,719  INFO [main] Company Setup User Page:77 - Select Check Box clicked 
+2022-07-20 11:57:49,204  INFO [main] Company Setup User Page:268 - Save Skill for created user. clicked 
+2022-07-20 11:57:55,187  INFO [main] Company Setup User Page:268 - Create New skill clicked 
+2022-07-20 11:57:55,638  INFO [main] Company Setup User Page:56 - skill Description entered with value - Add Skill description
+2022-07-20 11:57:58,996  INFO [main] Company Setup User Page:268 - Post New Comment clicked 
+2022-07-20 11:58:02,314  INFO [main] Company Setup User Page:268 - Save Skill clicked 
+2022-07-20 11:59:44,111  INFO [main] User Login Page:56 - User Name entered with value - TestUser220720115148@yopmail.com
+2022-07-20 11:59:44,526  INFO [main] User Login Page:56 - Password entered with value - @Password1
+2022-07-20 11:59:44,853  INFO [main] User Login Page:77 - Privacy Policy clicked 
+2022-07-20 11:59:45,551  INFO [main] User Login Page:77 - Login clicked 
+2022-07-20 11:59:54,676  INFO [main] Performance Review Page:77 - Full Menu clicked 
+2022-07-20 11:59:57,014  INFO [main] Performance Review Page:77 - Performance Side menu clicked 
+2022-07-20 12:00:01,976  INFO [main] Performance Review Page:77 - Perfromance Review clicked 
+2022-07-20 12:00:03,569  INFO [main] Performance Review Page:77 - Goal clicked 
+2022-07-20 12:00:07,426  INFO [main] Performance Review Page:77 - Created Goal clicked 
+2022-07-20 12:00:13,819  INFO [main] Performance Review Page:77 - Goal saved clicked 
+2022-07-20 12:00:20,006  INFO [main] Performance Review Page:77 - Review clicked 
+2022-07-20 12:00:20,755  INFO [main] Performance Review Page:77 - Note clicked 
+2022-07-20 12:00:26,472  INFO [main] Performance Review Page:77 - Created Note clicked 
+2022-07-20 12:00:26,978  INFO [main] Performance Review Page:56 - Enter comment Note entered with value - Enter goal Note
+2022-07-20 12:00:28,078  INFO [main] Performance Review Page:77 - Post comment clicked 
+2022-07-20 12:00:34,256  INFO [main] Performance Review Page:77 - Review clicked 
+2022-07-20 12:00:34,983  INFO [main] Performance Review Page:77 - Feedback clicked 
+2022-07-20 12:00:40,847  INFO [main] Performance Review Page:77 - Feedback Title clicked 
+2022-07-20 12:00:41,304  INFO [main] Performance Review Page:56 - enter comment Note entered with value - Enter goal Comment
+2022-07-20 12:00:42,389  INFO [main] Performance Review Page:77 - Feedback Post New Comment clicked 
+2022-07-20 12:00:48,575  INFO [main] Performance Review Page:77 - Back to list clicked 
+2022-07-20 12:00:49,318  INFO [main] Performance Review Page:77 - Skill clicked 
+2022-07-20 12:00:53,632  INFO [main] Performance Review Page:77 - Skill Title clicked 
+2022-07-20 12:00:57,584  INFO [main] Performance Review Page:56 - enter comment Note entered with value - enter Skill Comment
+2022-07-20 12:01:00,941  INFO [main] Performance Review Page:77 - Skill saved clicked 
+2022-07-20 12:01:01,663  INFO [main] Performance Review Page:77 - User Performance Review clicked 
+2022-07-20 12:01:06,516  INFO [main] Performance Review Page:77 - User Review Title clicked 
+2022-07-20 12:01:08,304  INFO [main] Performance Review Page:77 - Overview clicked 
+2022-07-20 12:01:08,357  INFO [main] Performance Review Page:438 - Overview Page displayed
+2022-07-20 12:01:09,170  INFO [main] Performance Review Page:77 - Note clicked 
+2022-07-20 12:01:10,214  INFO [main] Performance Review Page:77 - Note Title clicked 
+2022-07-20 12:01:10,261  INFO [main] Performance Review Page:412 - Note Page displayed
+2022-07-20 12:01:11,238  INFO [main] Performance Review Page:77 - Note Page Closed clicked 
+2022-07-20 12:01:12,150  INFO [main] Performance Review Page:77 - Goal clicked 
+2022-07-20 12:01:13,111  INFO [main] Performance Review Page:77 - Goal Title clicked 
+2022-07-20 12:01:13,167  INFO [main] Performance Review Page:383 - Goal Page displayed
+2022-07-20 12:01:14,055  INFO [main] Performance Review Page:77 - Goal Page Closed clicked 
+2022-07-20 12:01:14,979  INFO [main] Performance Review Page:77 - skill clicked 
+2022-07-20 12:01:15,928  INFO [main] Performance Review Page:77 - skill Title clicked 
+2022-07-20 12:01:15,966  INFO [main] Performance Review Page:353 - Skill Page displayed
+2022-07-20 12:01:16,827  INFO [main] Performance Review Page:77 - Skill Page Closed clicked 
+2022-07-20 12:01:17,831  INFO [main] Performance Review Page:77 - feedback clicked 
+2022-07-20 12:01:18,831  INFO [main] Performance Review Page:77 - feedback question clicked 
+2022-07-20 12:01:18,947  INFO [main] Performance Review Page:324 - Feedback Page displayed 
+2022-07-20 12:01:19,951  INFO [main] Performance Review Page:77 - Feedback Page Closed clicked 
+2022-07-20 12:01:21,001  INFO [main] Performance Review Page:77 - User Question clicked 
+2022-07-20 12:01:22,007  INFO [main] Performance Review Page:77 - Short Term Goal Rating clicked 
+2022-07-20 12:01:22,468  INFO [main] Performance Review Page:56 - Enter Short Term Goal entered with value - Add Short Term Goal
+2022-07-20 12:01:23,484  INFO [main] Performance Review Page:77 - Long Term Goal Rating clicked 
+2022-07-20 12:01:23,985  INFO [main] Performance Review Page:56 - Enter comment Note entered with value - Add Long Term Goal
+2022-07-20 12:01:24,916  INFO [main] Performance Review Page:77 - Current Appraisal Cycle clicked 
+2022-07-20 12:01:25,474  INFO [main] Performance Review Page:56 - Enter achievements in current appraisal cycle entered with value - Add achievements in current appraisal cycle
+2022-07-20 12:01:26,448  INFO [main] Performance Review Page:77 - Weakness Rating clicked 
+2022-07-20 12:01:26,946  INFO [main] Performance Review Page:56 - Enter weakness entered with value - Add weakness
+2022-07-20 12:01:28,001  INFO [main] Performance Review Page:77 - Save Question clicked 
+2022-07-20 12:01:32,149  INFO [main] Performance Review Page:77 - Submit review clicked 
+2022-07-20 12:01:32,672  INFO [main] Performance Review Page:56 -  Review Description entered with value - Add Review Description
+2022-07-20 12:01:33,828  INFO [main] Performance Review Page:77 - Save Submit Review clicked 
+2022-07-20 12:01:37,380  INFO [main] Performance Review Page:77 - Ok button clicked 
